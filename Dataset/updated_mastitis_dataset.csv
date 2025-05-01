@@ -1,0 +1,1501 @@
+Cow ID,Milk Yield (L/Day),SCC (cells/mL),Lactation Stage,Temperature (°C),Udder Health Metrics,Historical Mastitis Cases,Protein Level (%),Mastitis Presence,Mastitis Type
+1001,22.82,59908,Mid,38.15,Hardness,No,3.24,No,N/A
+1002,27.11,510497,Early,38.1,Normal,Yes,3.55,Yes,Clinical
+1003,27.11,869613,Mid,38.54,Hardness,No,3.4,Yes,Subclinical
+1004,27.27,842253,Early,38.87,Normal,No,3.32,Yes,Clinical
+1005,28.65,838918,Mid,37.69,Swollen,No,3.06,Yes,Subclinical
+1006,25.01,561395,Peak,39.19,Hardness,No,3.06,Yes,Clinical
+1007,25.78,128267,Peak,38.28,Hardness,No,3.7,No,N/A
+1008,27.42,901215,Mid,38.69,Hardness,No,3.0,Yes,Clinical
+1009,27.12,64160,Peak,38.15,Swollen,No,2.86,No,N/A
+1010,23.07,269090,Peak,38.16,Hardness,Yes,3.15,No,N/A
+1011,26.72,671368,Early,38.33,Lesions,No,3.03,Yes,Clinical
+1012,25.09,661558,Late,39.71,Lesions,No,3.14,Yes,Subclinical
+1013,25.7,61898,Peak,38.35,Slight Redness,No,3.72,No,N/A
+1014,20.72,232281,Late,38.19,Normal,No,2.91,No,N/A
+1015,27.37,532759,Late,38.55,Swollen,No,3.36,Yes,Subclinical
+1016,24.24,143768,Early,37.23,Slight Redness,No,3.3,No,N/A
+1017,27.63,256898,Late,37.62,Lesions,No,3.74,No,N/A
+1018,27.93,648776,Late,38.82,Hardness,No,2.85,Yes,Subclinical
+1019,28.75,654712,Peak,39.13,Normal,No,3.65,Yes,Clinical
+1020,25.91,192983,Mid,38.37,Lesions,Yes,3.67,No,N/A
+1021,27.42,444456,Peak,38.45,Slight Redness,No,2.97,No,N/A
+1022,26.59,736348,Late,38.97,Hardness,Yes,2.84,Yes,Subclinical
+1023,25.42,527644,Peak,38.08,Normal,No,3.69,Yes,Clinical
+1024,28.23,328656,Early,38.51,Normal,No,2.87,No,N/A
+1025,23.99,650305,Peak,38.87,Normal,Yes,3.1,Yes,Subclinical
+1026,27.84,624779,Mid,39.02,Normal,No,3.65,Yes,Clinical
+1027,26.96,588766,Mid,39.04,Hardness,No,2.91,Yes,Subclinical
+1028,27.06,71950,Early,38.4,Normal,Yes,2.99,No,N/A
+1029,23.85,246762,Peak,38.96,Normal,No,3.57,No,N/A
+1030,24.53,97338,Peak,38.22,Hardness,Yes,3.4,No,N/A
+1031,27.91,995259,Mid,38.82,Slight Redness,No,3.54,Yes,Clinical
+1032,26.63,367225,Mid,38.46,Swollen,Yes,3.28,No,N/A
+1033,24.54,807948,Early,38.8,Hardness,No,2.86,Yes,Subclinical
+1034,23.29,753070,Peak,38.81,Lesions,Yes,3.75,Yes,Subclinical
+1035,26.45,404233,Late,38.45,Slight Redness,Yes,2.92,No,N/A
+1036,22.88,458834,Early,37.63,Lesions,No,3.41,No,N/A
+1037,25.16,798613,Late,39.11,Slight Redness,No,2.92,Yes,Clinical
+1038,26.46,860242,Peak,38.55,Normal,No,3.48,Yes,Subclinical
+1039,28.52,375454,Mid,37.98,Swollen,No,3.6,No,N/A
+1040,27.01,867392,Peak,40.45,Hardness,No,3.47,Yes,Subclinical
+1041,25.04,239026,Early,38.41,Slight Redness,No,3.16,No,N/A
+1042,27.75,331300,Peak,38.35,Swollen,Yes,3.55,No,N/A
+1043,23.61,377697,Early,38.92,Swollen,No,3.11,No,N/A
+1044,24.52,161073,Mid,38.8,Lesions,No,3.37,No,N/A
+1045,24.15,385001,Mid,38.71,Slight Redness,No,2.96,No,N/A
+1046,24.09,478238,Early,37.63,Slight Redness,No,2.95,No,N/A
+1047,25.71,409625,Mid,38.25,Slight Redness,No,3.73,No,N/A
+1048,26.58,501207,Mid,39.73,Lesions,No,3.15,Yes,Subclinical
+1049,28.23,808780,Early,39.68,Lesions,No,3.44,Yes,Subclinical
+1050,22.21,110663,Peak,38.28,Swollen,Yes,3.65,No,N/A
+1051,26.98,871045,Peak,38.63,Slight Redness,Yes,3.52,Yes,Clinical
+1052,25.39,370918,Early,38.87,Normal,Yes,2.87,No,N/A
+1053,23.27,115549,Peak,38.06,Normal,No,3.17,No,N/A
+1054,24.64,541591,Late,39.38,Lesions,Yes,3.16,Yes,Subclinical
+1055,25.68,784844,Mid,38.99,Slight Redness,No,2.87,Yes,Subclinical
+1056,24.92,539511,Mid,39.12,Lesions,No,3.49,Yes,Clinical
+1057,26.15,150166,Late,38.64,Hardness,Yes,3.48,No,N/A
+1058,26.41,210905,Late,38.18,Hardness,No,2.92,No,N/A
+1059,24.71,848274,Peak,39.14,Hardness,No,3.73,Yes,Subclinical
+1060,22.91,383394,Late,38.25,Normal,Yes,3.3,No,N/A
+1061,24.81,626820,Mid,38.75,Swollen,Yes,3.55,Yes,Subclinical
+1062,27.56,568399,Late,39.11,Normal,No,3.57,Yes,Clinical
+1063,25.55,108148,Peak,37.49,Lesions,No,3.4,No,N/A
+1064,24.91,988538,Mid,39.07,Normal,No,2.89,Yes,Subclinical
+1065,26.39,795753,Mid,39.13,Hardness,No,3.32,Yes,Subclinical
+1066,28.14,820953,Late,38.3,Slight Redness,Yes,3.52,Yes,Subclinical
+1067,23.35,295365,Late,38.0,Swollen,Yes,2.9,No,N/A
+1068,24.35,211665,Late,37.9,Slight Redness,No,3.24,No,N/A
+1069,24.41,376047,Peak,38.23,Lesions,Yes,3.47,No,N/A
+1070,25.92,217858,Late,38.17,Normal,No,3.49,No,N/A
+1071,25.34,190754,Peak,38.41,Slight Redness,Yes,3.45,No,N/A
+1072,25.86,709201,Early,38.4,Normal,Yes,3.33,Yes,Subclinical
+1073,25.19,170321,Early,38.52,Hardness,No,3.59,No,N/A
+1074,25.97,921654,Early,38.86,Hardness,Yes,3.67,Yes,Subclinical
+1075,26.25,837091,Peak,38.83,Hardness,Yes,3.26,Yes,Clinical
+1076,25.4,378635,Late,38.24,Hardness,Yes,3.0,No,N/A
+1077,27.98,266714,Mid,38.51,Lesions,No,3.65,No,N/A
+1078,22.89,276065,Peak,38.68,Hardness,Yes,3.22,No,N/A
+1079,26.04,125119,Early,37.42,Swollen,No,3.8,No,N/A
+1080,29.79,743939,Mid,38.89,Hardness,No,3.31,Yes,Clinical
+1081,22.87,492534,Early,37.8,Lesions,Yes,3.24,No,N/A
+1082,28.5,783066,Mid,38.63,Slight Redness,Yes,3.31,Yes,Subclinical
+1083,24.45,188342,Mid,37.89,Swollen,No,2.86,No,N/A
+1084,24.13,875606,Late,39.07,Swollen,No,3.13,Yes,Clinical
+1085,26.38,468847,Mid,37.94,Swollen,No,3.14,No,N/A
+1086,26.28,224264,Early,37.94,Normal,No,3.32,No,N/A
+1087,23.64,417253,Mid,37.54,Swollen,No,3.06,No,N/A
+1088,26.37,812173,Mid,39.38,Swollen,Yes,3.51,Yes,Subclinical
+1089,26.35,960829,Peak,39.14,Swollen,No,3.51,Yes,Clinical
+1090,24.01,657151,Peak,38.55,Swollen,Yes,3.01,Yes,Subclinical
+1091,26.19,811172,Early,38.09,Normal,No,3.41,Yes,Clinical
+1092,29.14,571791,Late,39.54,Slight Redness,No,3.06,Yes,Subclinical
+1093,24.44,723188,Late,38.47,Normal,No,3.61,Yes,Subclinical
+1094,26.35,561102,Peak,38.76,Swollen,No,3.43,Yes,Subclinical
+1095,26.61,438902,Late,37.78,Slight Redness,Yes,3.35,No,N/A
+1096,25.65,311421,Late,37.64,Slight Redness,No,3.39,No,N/A
+1097,25.36,731275,Peak,39.39,Hardness,No,3.11,Yes,Clinical
+1098,25.36,956022,Mid,38.98,Slight Redness,No,3.07,Yes,Subclinical
+1099,27.85,435456,Late,38.47,Lesions,No,3.64,No,N/A
+1100,27.95,921505,Mid,39.14,Swollen,No,3.11,Yes,Subclinical
+1101,26.33,355208,Peak,37.96,Lesions,No,2.86,No,N/A
+1102,27.58,498223,Late,38.22,Lesions,No,2.99,No,N/A
+1103,25.5,699271,Mid,40.06,Slight Redness,No,3.6,Yes,Subclinical
+1104,26.46,97169,Early,38.39,Slight Redness,No,3.22,No,N/A
+1105,24.61,155240,Peak,38.24,Hardness,No,3.52,No,N/A
+1106,26.08,560221,Peak,39.16,Normal,No,3.7,Yes,Clinical
+1107,24.98,115639,Mid,37.82,Hardness,No,2.86,No,N/A
+1108,27.13,173319,Late,37.8,Lesions,No,3.68,No,N/A
+1109,24.51,114406,Peak,38.76,Lesions,Yes,2.81,No,N/A
+1110,21.78,194064,Early,38.17,Hardness,Yes,3.69,No,N/A
+1111,25.75,964278,Peak,39.24,Hardness,No,3.48,Yes,Subclinical
+1112,27.25,660763,Peak,39.31,Swollen,Yes,3.74,Yes,Clinical
+1113,28.84,210683,Peak,37.74,Swollen,Yes,3.59,No,N/A
+1114,24.87,392387,Mid,37.54,Normal,No,2.91,No,N/A
+1115,26.58,383242,Late,37.98,Hardness,Yes,2.96,No,N/A
+1116,27.65,120746,Late,37.96,Normal,No,3.68,No,N/A
+1117,23.37,296546,Late,38.76,Hardness,No,2.88,No,N/A
+1118,24.59,801981,Peak,39.78,Hardness,No,3.28,Yes,Subclinical
+1119,26.8,432519,Late,38.12,Slight Redness,No,3.02,No,N/A
+1120,23.2,107820,Early,37.74,Normal,No,2.9,No,N/A
+1121,27.61,718791,Late,38.57,Lesions,Yes,3.26,Yes,Clinical
+1122,24.62,143594,Peak,37.98,Normal,No,3.69,No,N/A
+1123,25.49,144279,Early,37.96,Hardness,No,3.61,No,N/A
+1124,27.75,158709,Early,37.19,Lesions,No,2.87,No,N/A
+1125,25.77,976562,Peak,39.52,Normal,Yes,3.71,Yes,Subclinical
+1126,24.0,891359,Late,38.5,Swollen,No,3.44,Yes,Subclinical
+1127,28.62,501997,Late,38.84,Lesions,No,3.13,Yes,Subclinical
+1128,24.5,291475,Early,38.0,Hardness,No,3.62,No,N/A
+1129,27.16,208603,Early,38.7,Normal,No,3.33,No,N/A
+1130,29.66,892831,Peak,38.72,Swollen,No,3.61,Yes,Subclinical
+1131,26.49,877417,Peak,38.97,Hardness,Yes,3.41,Yes,Subclinical
+1132,24.44,452113,Late,38.05,Normal,No,3.51,No,N/A
+1133,23.18,489597,Early,37.69,Lesions,Yes,3.31,No,N/A
+1134,26.38,898452,Mid,38.21,Slight Redness,Yes,3.4,Yes,Subclinical
+1135,23.96,413748,Early,38.35,Swollen,No,3.29,No,N/A
+1136,25.25,289375,Late,37.69,Normal,No,3.11,No,N/A
+1137,22.96,350482,Early,38.86,Slight Redness,No,3.46,No,N/A
+1138,26.27,891860,Late,39.07,Slight Redness,No,3.45,Yes,Clinical
+1139,24.79,927764,Early,38.65,Normal,No,2.92,Yes,Subclinical
+1140,23.82,251786,Early,38.49,Normal,No,3.77,No,N/A
+1141,25.91,505593,Peak,38.5,Normal,No,3.3,Yes,Clinical
+1142,25.73,276435,Mid,37.23,Hardness,No,3.34,No,N/A
+1143,26.52,260105,Peak,37.05,Normal,Yes,2.98,No,N/A
+1144,25.63,976453,Early,39.05,Normal,No,3.17,Yes,Subclinical
+1145,23.93,941976,Early,38.47,Swollen,No,2.97,Yes,Subclinical
+1146,24.33,90073,Mid,38.19,Hardness,No,3.59,No,N/A
+1147,23.2,245152,Mid,36.98,Swollen,No,3.01,No,N/A
+1148,25.66,790266,Late,38.95,Slight Redness,Yes,3.43,Yes,Clinical
+1149,25.04,250839,Peak,38.24,Hardness,No,3.01,No,N/A
+1150,27.43,765457,Peak,39.2,Hardness,No,2.83,Yes,Clinical
+1151,26.26,533481,Early,38.83,Hardness,No,2.8,Yes,Subclinical
+1152,23.8,247848,Early,37.19,Hardness,Yes,2.81,No,N/A
+1153,24.63,133022,Peak,38.08,Normal,No,3.79,No,N/A
+1154,27.57,107027,Early,38.35,Lesions,No,3.07,No,N/A
+1155,27.45,794744,Peak,38.82,Hardness,No,3.63,Yes,Subclinical
+1156,25.46,591934,Early,39.42,Lesions,No,3.49,Yes,Clinical
+1157,22.96,393691,Late,39.2,Swollen,No,2.85,No,N/A
+1158,24.71,242137,Peak,38.05,Normal,Yes,3.11,No,N/A
+1159,29.12,871364,Mid,38.89,Normal,Yes,2.86,Yes,Subclinical
+1160,27.09,810068,Late,38.77,Lesions,No,3.62,Yes,Subclinical
+1161,25.94,380969,Peak,38.46,Hardness,No,2.95,No,N/A
+1162,24.95,676308,Peak,39.74,Hardness,Yes,3.07,Yes,Subclinical
+1163,24.16,185026,Peak,38.55,Lesions,No,2.96,No,N/A
+1164,28.24,583977,Peak,39.08,Hardness,No,2.99,Yes,Subclinical
+1165,23.98,482957,Peak,38.32,Hardness,No,3.29,No,N/A
+1166,24.33,719619,Peak,38.89,Normal,Yes,2.83,Yes,Subclinical
+1167,25.73,201817,Peak,37.97,Normal,No,3.79,No,N/A
+1168,22.97,718837,Peak,38.57,Normal,Yes,3.67,Yes,Clinical
+1169,25.75,442966,Peak,37.9,Slight Redness,No,3.62,No,N/A
+1170,28.2,735594,Peak,38.98,Lesions,No,2.85,Yes,Subclinical
+1171,24.03,74569,Mid,38.03,Swollen,Yes,3.33,No,N/A
+1172,24.22,312243,Mid,37.93,Hardness,No,3.44,No,N/A
+1173,26.14,632410,Early,39.05,Swollen,Yes,3.45,Yes,Clinical
+1174,25.18,96692,Peak,38.2,Hardness,No,3.01,No,N/A
+1175,25.3,758753,Late,38.58,Slight Redness,No,3.68,Yes,Clinical
+1176,26.49,912081,Early,39.24,Slight Redness,Yes,2.99,Yes,Clinical
+1177,24.14,495853,Early,38.07,Normal,No,3.16,No,N/A
+1178,25.6,709429,Early,39.12,Swollen,No,3.2,Yes,Subclinical
+1179,24.79,959716,Early,39.22,Swollen,No,3.33,Yes,Subclinical
+1180,25.41,394957,Peak,37.92,Slight Redness,No,3.56,No,N/A
+1181,25.19,850381,Late,39.29,Swollen,No,2.97,Yes,Clinical
+1182,25.85,767946,Early,39.21,Normal,Yes,3.17,Yes,Clinical
+1183,23.96,195432,Late,37.78,Lesions,No,3.22,No,N/A
+1184,26.85,360553,Peak,38.95,Swollen,Yes,2.92,No,N/A
+1185,25.63,774147,Peak,39.14,Hardness,Yes,3.63,Yes,Clinical
+1186,27.25,690664,Peak,38.83,Swollen,Yes,3.6,Yes,Subclinical
+1187,26.46,913816,Mid,39.19,Hardness,Yes,3.61,Yes,Subclinical
+1188,26.69,962594,Late,38.39,Slight Redness,Yes,3.79,Yes,Subclinical
+1189,23.13,980542,Peak,39.25,Hardness,No,3.64,Yes,Subclinical
+1190,27.11,701242,Mid,38.53,Normal,No,3.45,Yes,Subclinical
+1191,23.69,322326,Peak,39.02,Lesions,Yes,3.54,No,N/A
+1192,24.88,483097,Mid,39.1,Slight Redness,No,3.05,No,N/A
+1193,25.38,117079,Late,37.65,Lesions,No,3.06,No,N/A
+1194,28.9,837698,Mid,39.04,Lesions,No,3.13,Yes,Clinical
+1195,26.7,84600,Mid,37.84,Normal,No,3.63,No,N/A
+1196,27.26,805060,Peak,39.31,Slight Redness,No,3.55,Yes,Subclinical
+1197,25.57,305620,Early,38.45,Hardness,No,3.38,No,N/A
+1198,26.07,321081,Mid,37.58,Normal,No,3.04,No,N/A
+1199,23.7,489248,Late,38.12,Normal,No,2.86,No,N/A
+1200,28.19,363076,Late,37.44,Swollen,No,3.04,No,N/A
+1201,26.67,503982,Late,38.86,Slight Redness,No,3.46,Yes,Clinical
+1202,24.72,377929,Mid,37.73,Hardness,No,3.41,No,N/A
+1203,25.91,175209,Early,38.77,Normal,Yes,3.52,No,N/A
+1204,24.8,151163,Peak,38.71,Swollen,Yes,3.28,No,N/A
+1205,23.1,580251,Peak,39.78,Slight Redness,Yes,2.86,Yes,Clinical
+1206,28.29,841946,Mid,39.13,Slight Redness,No,3.01,Yes,Subclinical
+1207,26.14,683857,Peak,39.03,Slight Redness,No,3.16,Yes,Clinical
+1208,24.99,676591,Mid,40.04,Slight Redness,No,3.11,Yes,Subclinical
+1209,23.97,692420,Early,38.67,Swollen,No,3.22,Yes,Clinical
+1210,28.15,830857,Peak,39.63,Hardness,No,3.7,Yes,Subclinical
+1211,24.51,435021,Late,37.91,Swollen,Yes,3.65,No,N/A
+1212,21.2,654962,Mid,38.11,Lesions,No,3.18,Yes,Subclinical
+1213,23.67,486141,Peak,38.6,Slight Redness,Yes,3.17,No,N/A
+1214,21.82,378596,Peak,38.52,Slight Redness,No,2.88,No,N/A
+1215,26.05,724451,Peak,39.06,Lesions,Yes,2.98,Yes,Subclinical
+1216,25.02,249783,Early,37.95,Swollen,No,3.07,No,N/A
+1217,25.89,255108,Early,37.81,Swollen,No,3.09,No,N/A
+1218,26.74,619429,Early,38.77,Slight Redness,No,3.38,Yes,Clinical
+1219,26.45,512848,Late,38.97,Lesions,Yes,3.35,Yes,Clinical
+1220,23.62,761740,Late,38.42,Hardness,Yes,3.46,Yes,Clinical
+1221,20.34,166166,Peak,38.58,Swollen,No,3.76,No,N/A
+1222,27.81,743413,Early,39.97,Swollen,No,3.29,Yes,Subclinical
+1223,25.58,261650,Mid,37.98,Swollen,No,2.89,No,N/A
+1224,24.76,730909,Late,39.37,Hardness,No,3.32,Yes,Clinical
+1225,22.58,351530,Late,37.69,Hardness,No,2.95,No,N/A
+1226,27.91,880484,Mid,39.22,Hardness,Yes,3.49,Yes,Subclinical
+1227,23.98,401940,Peak,37.8,Slight Redness,No,3.75,No,N/A
+1228,24.41,520817,Peak,39.26,Normal,No,3.0,Yes,Clinical
+1229,28.2,594483,Early,39.64,Lesions,No,3.09,Yes,Clinical
+1230,27.27,639564,Early,38.85,Hardness,No,2.98,Yes,Subclinical
+1231,29.92,575200,Mid,39.34,Normal,No,3.66,Yes,Subclinical
+1232,24.77,322715,Late,37.5,Lesions,Yes,3.7,No,N/A
+1233,24.34,826540,Late,38.53,Swollen,No,3.47,Yes,Subclinical
+1234,28.45,550242,Mid,39.3,Slight Redness,No,3.27,Yes,Clinical
+1235,24.69,939388,Mid,38.37,Lesions,Yes,3.12,Yes,Subclinical
+1236,26.34,661739,Late,39.67,Slight Redness,Yes,3.35,Yes,Clinical
+1237,24.46,106054,Mid,38.34,Normal,No,3.73,No,N/A
+1238,28.12,670349,Peak,39.47,Hardness,No,3.76,Yes,Subclinical
+1239,25.25,597372,Mid,39.64,Lesions,No,2.84,Yes,Subclinical
+1240,24.7,244267,Mid,37.56,Hardness,No,3.36,No,N/A
+1241,26.32,980717,Peak,38.06,Swollen,No,3.4,Yes,Subclinical
+1242,26.02,448380,Early,37.23,Normal,No,2.89,No,N/A
+1243,26.71,646172,Peak,38.95,Hardness,No,3.55,Yes,Subclinical
+1244,22.97,77716,Peak,37.98,Swollen,No,3.51,No,N/A
+1245,28.45,455556,Mid,38.51,Hardness,No,2.85,No,N/A
+1246,24.88,147904,Early,38.18,Swollen,Yes,3.29,No,N/A
+1247,23.13,460739,Early,38.0,Slight Redness,Yes,2.97,No,N/A
+1248,27.01,87350,Peak,37.85,Normal,Yes,3.51,No,N/A
+1249,24.25,268307,Late,38.18,Slight Redness,Yes,2.94,No,N/A
+1250,25.23,995025,Late,39.2,Normal,Yes,2.84,Yes,Clinical
+1251,26.47,876970,Early,38.19,Hardness,Yes,2.8,Yes,Clinical
+1252,26.25,759909,Early,39.17,Swollen,No,3.75,Yes,Subclinical
+1253,24.87,517038,Peak,38.54,Normal,Yes,3.51,Yes,Subclinical
+1254,25.99,186152,Peak,37.64,Slight Redness,Yes,3.11,No,N/A
+1255,25.32,886102,Peak,39.78,Swollen,No,3.14,Yes,Clinical
+1256,24.51,306693,Early,37.42,Lesions,Yes,3.7,No,N/A
+1257,23.97,848875,Mid,38.78,Slight Redness,Yes,3.01,Yes,Subclinical
+1258,26.81,509344,Late,39.64,Hardness,No,3.64,Yes,Subclinical
+1259,25.9,966448,Peak,38.37,Lesions,No,3.68,Yes,Clinical
+1260,25.55,912188,Early,38.41,Swollen,No,3.19,Yes,Subclinical
+1261,27.18,320543,Peak,37.1,Hardness,No,3.73,No,N/A
+1262,25.12,589645,Mid,38.92,Normal,Yes,3.43,Yes,Clinical
+1263,27.77,593009,Peak,39.95,Normal,No,3.05,Yes,Clinical
+1264,25.95,926972,Late,39.08,Hardness,No,2.9,Yes,Subclinical
+1265,26.01,969164,Late,39.55,Slight Redness,Yes,2.83,Yes,Subclinical
+1266,25.31,510110,Peak,39.27,Swollen,Yes,3.04,Yes,Clinical
+1267,25.73,900274,Early,39.1,Normal,No,3.0,Yes,Clinical
+1268,22.66,143826,Early,37.57,Slight Redness,No,3.42,No,N/A
+1269,27.27,197838,Mid,38.04,Slight Redness,Yes,3.76,No,N/A
+1270,26.26,807769,Peak,39.57,Slight Redness,Yes,2.82,Yes,Clinical
+1271,25.23,331416,Peak,38.78,Hardness,No,2.87,No,N/A
+1272,26.55,501570,Peak,38.57,Swollen,No,2.95,Yes,Subclinical
+1273,26.39,304935,Late,38.1,Normal,No,3.02,No,N/A
+1274,23.73,315211,Mid,37.65,Slight Redness,No,2.98,No,N/A
+1275,24.3,421112,Mid,37.43,Lesions,No,3.37,No,N/A
+1276,26.14,177584,Early,37.74,Hardness,No,3.08,No,N/A
+1277,26.23,997733,Mid,38.39,Normal,No,3.71,Yes,Subclinical
+1278,20.49,246689,Mid,37.99,Normal,No,3.23,No,N/A
+1279,24.46,214300,Peak,37.74,Lesions,No,3.11,No,N/A
+1280,24.18,703768,Mid,38.61,Lesions,Yes,2.86,Yes,Subclinical
+1281,28.38,971967,Late,39.36,Swollen,Yes,3.07,Yes,Subclinical
+1282,25.41,192922,Early,38.24,Lesions,No,3.57,No,N/A
+1283,27.55,881127,Peak,39.65,Hardness,No,3.8,Yes,Clinical
+1284,25.89,719411,Late,38.95,Normal,No,2.94,Yes,Subclinical
+1285,25.41,471417,Early,38.64,Swollen,No,3.63,No,N/A
+1286,27.04,350601,Late,38.14,Hardness,No,3.65,No,N/A
+1287,27.06,559810,Early,38.91,Hardness,No,3.14,Yes,Clinical
+1288,28.89,733619,Late,38.77,Normal,Yes,3.12,Yes,Subclinical
+1289,27.49,84114,Peak,38.4,Hardness,No,2.9,No,N/A
+1290,25.45,489935,Peak,37.49,Swollen,No,3.09,No,N/A
+1291,24.07,498200,Peak,37.86,Swollen,Yes,2.99,No,N/A
+1292,26.67,271261,Mid,37.63,Lesions,No,3.08,No,N/A
+1293,26.57,750877,Late,38.3,Slight Redness,Yes,3.14,Yes,Clinical
+1294,26.46,549962,Early,39.37,Slight Redness,Yes,3.3,Yes,Subclinical
+1295,24.68,568932,Early,39.43,Normal,No,3.56,Yes,Subclinical
+1296,25.51,132387,Late,37.96,Slight Redness,Yes,2.82,No,N/A
+1297,27.01,610718,Early,38.61,Swollen,No,3.09,Yes,Clinical
+1298,25.96,322355,Mid,37.58,Slight Redness,No,2.82,No,N/A
+1299,21.65,164027,Peak,38.11,Hardness,No,3.32,No,N/A
+1300,23.46,551196,Late,39.6,Slight Redness,No,3.7,Yes,Subclinical
+1301,25.01,938012,Mid,39.24,Swollen,No,3.66,Yes,Subclinical
+1302,24.84,788925,Early,38.58,Lesions,No,3.3,Yes,Subclinical
+1303,26.06,658556,Early,38.27,Slight Redness,Yes,3.17,Yes,Subclinical
+1304,25.66,333985,Mid,37.44,Slight Redness,Yes,2.82,No,N/A
+1305,27.19,603802,Peak,40.01,Swollen,No,3.69,Yes,Clinical
+1306,25.64,471563,Early,37.88,Normal,Yes,3.01,No,N/A
+1307,23.06,994923,Early,38.29,Lesions,No,3.42,Yes,Subclinical
+1308,27.13,633488,Early,38.45,Swollen,No,2.93,Yes,Subclinical
+1309,27.14,957311,Early,38.29,Lesions,No,2.86,Yes,Subclinical
+1310,23.52,108319,Early,38.24,Normal,Yes,3.67,No,N/A
+1311,26.25,793363,Early,40.0,Slight Redness,Yes,3.56,Yes,Clinical
+1312,26.36,931209,Early,38.08,Swollen,No,3.15,Yes,Subclinical
+1313,26.21,889029,Peak,38.54,Normal,No,3.59,Yes,Clinical
+1314,29.25,114348,Peak,37.93,Hardness,Yes,3.24,No,N/A
+1315,25.05,827094,Peak,38.91,Lesions,No,3.64,Yes,Subclinical
+1316,27.65,205476,Early,37.12,Normal,No,3.72,No,N/A
+1317,25.58,122481,Peak,39.4,Lesions,No,2.94,No,N/A
+1318,25.82,576163,Early,39.48,Hardness,No,3.37,Yes,Subclinical
+1319,26.89,819902,Early,38.75,Slight Redness,Yes,3.0,Yes,Clinical
+1320,25.77,756580,Mid,39.88,Slight Redness,No,3.15,Yes,Subclinical
+1321,24.35,770501,Peak,39.39,Hardness,Yes,3.4,Yes,Clinical
+1322,27.23,708364,Peak,39.03,Slight Redness,No,3.71,Yes,Subclinical
+1323,25.78,998385,Early,39.14,Swollen,No,3.64,Yes,Subclinical
+1324,23.06,172051,Peak,38.15,Normal,No,3.28,No,N/A
+1325,28.94,563128,Mid,40.05,Swollen,Yes,3.53,Yes,Clinical
+1326,29.06,572806,Late,39.28,Hardness,Yes,3.17,Yes,Clinical
+1327,24.03,356592,Late,37.57,Slight Redness,No,3.14,No,N/A
+1328,27.13,621378,Early,39.65,Swollen,Yes,2.84,Yes,Subclinical
+1329,26.24,714341,Late,39.54,Lesions,No,3.35,Yes,Clinical
+1330,25.46,634827,Late,39.07,Swollen,No,3.01,Yes,Clinical
+1331,25.71,606857,Late,39.16,Hardness,No,3.43,Yes,Clinical
+1332,27.29,474801,Late,38.53,Slight Redness,Yes,3.72,No,N/A
+1333,29.21,502659,Early,39.72,Lesions,No,3.5,Yes,Subclinical
+1334,27.94,502848,Late,39.47,Lesions,Yes,3.31,Yes,Subclinical
+1335,25.2,282813,Mid,37.95,Swollen,No,3.67,No,N/A
+1336,25.06,707344,Late,38.95,Slight Redness,No,3.08,Yes,Subclinical
+1337,25.55,686417,Mid,38.06,Lesions,No,3.0,Yes,Clinical
+1338,28.51,428477,Peak,37.5,Lesions,No,3.43,No,N/A
+1339,26.86,708134,Early,39.09,Slight Redness,No,3.8,Yes,Subclinical
+1340,26.73,683013,Late,38.94,Lesions,Yes,3.45,Yes,Subclinical
+1341,25.79,854338,Peak,39.5,Slight Redness,No,3.14,Yes,Clinical
+1342,25.38,691854,Early,39.03,Lesions,No,2.82,Yes,Clinical
+1343,26.07,529237,Peak,38.92,Lesions,Yes,3.19,Yes,Subclinical
+1344,20.62,328476,Peak,37.7,Lesions,No,2.85,No,N/A
+1345,25.94,202234,Early,38.86,Normal,No,2.99,No,N/A
+1346,27.88,495843,Early,38.11,Swollen,Yes,2.91,No,N/A
+1347,25.25,483309,Early,38.19,Slight Redness,No,2.85,No,N/A
+1348,23.3,846538,Late,39.45,Lesions,Yes,3.51,Yes,Subclinical
+1349,27.7,568329,Peak,39.63,Hardness,No,3.46,Yes,Clinical
+1350,25.96,883803,Late,39.34,Normal,Yes,2.81,Yes,Clinical
+1351,23.46,467268,Peak,37.45,Lesions,No,2.82,No,N/A
+1352,27.83,960115,Peak,38.51,Swollen,No,3.21,Yes,Subclinical
+1353,22.82,81378,Late,38.52,Slight Redness,Yes,3.75,No,N/A
+1354,26.73,935947,Mid,39.0,Slight Redness,No,3.57,Yes,Subclinical
+1355,28.66,122635,Peak,38.45,Hardness,No,3.79,No,N/A
+1356,26.06,513044,Peak,38.8,Hardness,No,3.16,Yes,Clinical
+1357,22.51,807777,Mid,38.78,Slight Redness,No,2.87,Yes,Subclinical
+1358,24.35,348188,Early,38.38,Lesions,No,3.32,No,N/A
+1359,27.52,633266,Peak,39.22,Normal,No,2.9,Yes,Clinical
+1360,26.51,806224,Peak,38.3,Hardness,Yes,3.27,Yes,Clinical
+1361,27.16,786745,Early,39.48,Lesions,No,3.04,Yes,Subclinical
+1362,26.92,481275,Mid,37.06,Swollen,No,3.39,No,N/A
+1363,21.74,848218,Mid,38.6,Hardness,No,3.08,Yes,Clinical
+1364,24.0,165718,Late,37.95,Slight Redness,No,3.64,No,N/A
+1365,24.88,712384,Peak,39.82,Swollen,Yes,3.53,Yes,Subclinical
+1366,24.4,281647,Mid,36.86,Swollen,No,3.67,No,N/A
+1367,22.62,349090,Peak,37.54,Hardness,No,3.28,No,N/A
+1368,22.16,543421,Peak,38.22,Normal,Yes,2.98,Yes,Clinical
+1369,27.1,626780,Late,38.63,Swollen,Yes,3.5,Yes,Clinical
+1370,22.66,405740,Mid,38.15,Normal,Yes,3.16,No,N/A
+1371,25.93,847505,Early,38.25,Hardness,Yes,2.99,Yes,Clinical
+1372,26.68,858820,Mid,38.88,Lesions,No,3.24,Yes,Subclinical
+1373,28.5,883149,Early,39.51,Lesions,No,3.36,Yes,Subclinical
+1374,26.77,137924,Mid,38.61,Hardness,No,3.79,No,N/A
+1375,26.45,226589,Peak,37.56,Swollen,No,3.12,No,N/A
+1376,25.11,520803,Mid,39.4,Normal,No,2.94,Yes,Subclinical
+1377,25.12,466689,Mid,38.21,Normal,Yes,2.96,No,N/A
+1378,25.29,111271,Mid,37.91,Hardness,No,3.46,No,N/A
+1379,27.99,786659,Early,38.89,Swollen,Yes,3.1,Yes,Subclinical
+1380,25.27,925386,Mid,40.08,Hardness,No,3.48,Yes,Subclinical
+1381,25.41,285469,Peak,37.02,Slight Redness,No,3.2,No,N/A
+1382,22.68,508736,Peak,37.86,Lesions,No,3.36,Yes,Subclinical
+1383,23.62,181369,Peak,38.46,Normal,Yes,3.21,No,N/A
+1384,26.23,946494,Peak,39.0,Hardness,No,3.27,Yes,Subclinical
+1385,25.17,67818,Peak,38.39,Hardness,No,2.8,No,N/A
+1386,27.45,717074,Early,39.32,Hardness,No,3.7,Yes,Clinical
+1387,25.85,115453,Mid,37.95,Lesions,Yes,3.33,No,N/A
+1388,22.38,238568,Late,38.34,Lesions,No,3.71,No,N/A
+1389,26.61,878278,Late,39.81,Hardness,No,3.61,Yes,Subclinical
+1390,25.52,426831,Late,37.71,Lesions,No,3.77,No,N/A
+1391,26.36,968480,Peak,39.74,Hardness,No,3.54,Yes,Clinical
+1392,25.78,606079,Mid,37.7,Hardness,Yes,3.56,Yes,Subclinical
+1393,25.02,717597,Late,38.97,Lesions,No,2.88,Yes,Subclinical
+1394,27.54,582970,Mid,38.8,Normal,Yes,3.74,Yes,Clinical
+1395,24.84,65829,Peak,37.46,Hardness,No,3.8,No,N/A
+1396,24.95,457485,Mid,38.21,Swollen,No,3.47,No,N/A
+1397,26.43,706980,Early,38.97,Slight Redness,Yes,3.44,Yes,Clinical
+1398,25.44,902899,Peak,39.61,Swollen,No,3.06,Yes,Subclinical
+1399,26.85,403505,Peak,38.91,Lesions,No,3.05,No,N/A
+1400,26.88,213768,Mid,37.98,Hardness,No,3.66,No,N/A
+1401,27.3,244805,Late,39.06,Swollen,Yes,3.35,No,N/A
+1402,24.89,914390,Late,39.14,Swollen,No,3.77,Yes,Subclinical
+1403,24.17,234371,Peak,38.02,Normal,No,3.23,No,N/A
+1404,25.68,587475,Mid,38.98,Normal,No,3.77,Yes,Clinical
+1405,26.43,917618,Mid,39.01,Normal,No,3.78,Yes,Clinical
+1406,26.85,282334,Mid,38.66,Lesions,No,3.66,No,N/A
+1407,26.71,836628,Mid,39.3,Normal,No,3.69,Yes,Clinical
+1408,25.72,564287,Early,38.43,Lesions,No,2.99,Yes,Subclinical
+1409,26.72,898871,Mid,38.83,Lesions,No,3.19,Yes,Subclinical
+1410,24.06,405540,Peak,38.17,Lesions,No,3.65,No,N/A
+1411,24.46,495634,Early,37.84,Hardness,No,3.3,No,N/A
+1412,26.02,224645,Late,38.21,Normal,Yes,3.59,No,N/A
+1413,25.43,261170,Early,37.83,Slight Redness,No,3.33,No,N/A
+1414,25.42,102637,Late,37.57,Lesions,No,3.66,No,N/A
+1415,24.78,938731,Peak,37.99,Lesions,Yes,3.24,Yes,Subclinical
+1416,23.15,210914,Late,37.49,Normal,No,3.4,No,N/A
+1417,26.07,525498,Late,39.28,Slight Redness,No,2.87,Yes,Subclinical
+1418,22.42,420378,Mid,38.58,Lesions,Yes,2.85,No,N/A
+1419,27.4,291125,Early,38.87,Slight Redness,Yes,3.19,No,N/A
+1420,26.74,810797,Late,38.63,Swollen,Yes,3.58,Yes,Subclinical
+1421,25.42,850049,Peak,38.63,Swollen,No,2.97,Yes,Subclinical
+1422,23.48,300375,Peak,38.1,Swollen,Yes,3.02,No,N/A
+1423,25.0,132677,Peak,38.17,Slight Redness,No,3.39,No,N/A
+1424,25.23,972164,Late,39.61,Hardness,No,3.75,Yes,Clinical
+1425,26.34,484258,Peak,38.06,Normal,No,2.93,No,N/A
+1426,25.29,410944,Late,38.04,Swollen,No,2.8,No,N/A
+1427,24.56,594773,Late,38.45,Normal,No,3.28,Yes,Subclinical
+1428,26.07,851003,Early,38.53,Slight Redness,Yes,2.91,Yes,Clinical
+1429,25.65,482720,Late,37.86,Normal,No,2.98,No,N/A
+1430,28.67,859987,Mid,38.76,Normal,Yes,3.15,Yes,Subclinical
+1431,24.76,581326,Early,39.25,Lesions,No,3.23,Yes,Subclinical
+1432,27.75,75781,Mid,38.81,Slight Redness,Yes,3.78,No,N/A
+1433,26.04,689299,Peak,38.85,Normal,Yes,3.71,Yes,Subclinical
+1434,26.93,305825,Early,37.51,Slight Redness,No,3.48,No,N/A
+1435,25.32,280834,Early,38.5,Swollen,Yes,2.94,No,N/A
+1436,25.43,256045,Late,38.33,Hardness,No,3.76,No,N/A
+1437,25.05,704179,Late,40.01,Hardness,No,3.24,Yes,Subclinical
+1438,25.25,373824,Late,38.42,Swollen,No,3.3,No,N/A
+1439,23.73,323294,Mid,37.94,Normal,Yes,3.72,No,N/A
+1440,25.74,560746,Late,38.53,Hardness,Yes,2.83,Yes,Subclinical
+1441,24.72,540378,Peak,39.46,Swollen,No,3.27,Yes,Subclinical
+1442,26.92,918897,Late,39.82,Swollen,No,3.11,Yes,Subclinical
+1443,23.71,554979,Mid,38.64,Lesions,Yes,3.16,Yes,Clinical
+1444,24.69,733480,Peak,38.18,Lesions,No,3.12,Yes,Clinical
+1445,25.14,859693,Peak,38.89,Lesions,No,2.88,Yes,Clinical
+1446,27.14,521681,Early,40.05,Slight Redness,No,3.5,Yes,Clinical
+1447,24.76,634288,Mid,38.44,Normal,No,2.84,Yes,Subclinical
+1448,23.88,229939,Mid,38.3,Hardness,Yes,3.02,No,N/A
+1449,26.68,833240,Late,39.98,Swollen,No,3.43,Yes,Clinical
+1450,26.09,496108,Early,37.45,Slight Redness,Yes,3.07,No,N/A
+1451,27.93,446684,Mid,38.69,Swollen,Yes,3.69,No,N/A
+1452,23.31,309066,Peak,38.16,Swollen,No,3.75,No,N/A
+1453,25.73,937962,Mid,39.45,Hardness,Yes,3.36,Yes,Subclinical
+1454,28.5,620418,Mid,38.87,Lesions,No,2.83,Yes,Subclinical
+1455,23.6,367159,Late,37.53,Hardness,No,3.64,No,N/A
+1456,25.52,435408,Late,37.4,Lesions,No,3.15,No,N/A
+1457,27.07,801474,Early,38.98,Swollen,No,2.92,Yes,Subclinical
+1458,26.22,423864,Late,38.37,Hardness,Yes,3.19,No,N/A
+1459,27.6,927926,Early,39.35,Lesions,Yes,3.43,Yes,Subclinical
+1460,26.92,982339,Early,39.4,Swollen,No,3.24,Yes,Subclinical
+1461,27.66,698012,Mid,38.41,Lesions,No,3.41,Yes,Subclinical
+1462,26.11,613414,Early,38.26,Slight Redness,No,3.31,Yes,Clinical
+1463,25.15,273215,Peak,38.41,Swollen,No,3.72,No,N/A
+1464,25.41,875143,Mid,38.91,Slight Redness,No,2.94,Yes,Clinical
+1465,26.8,931258,Mid,39.04,Slight Redness,Yes,3.22,Yes,Clinical
+1466,26.01,891199,Late,38.84,Hardness,No,2.8,Yes,Subclinical
+1467,28.05,574080,Mid,39.4,Hardness,No,3.54,Yes,Clinical
+1468,26.19,447606,Early,38.17,Lesions,No,3.03,No,N/A
+1469,26.22,966316,Peak,38.51,Normal,Yes,3.19,Yes,Clinical
+1470,26.29,926630,Peak,38.9,Swollen,No,3.22,Yes,Clinical
+1471,25.78,414719,Mid,38.04,Slight Redness,No,3.47,No,N/A
+1472,24.82,532953,Mid,38.91,Slight Redness,No,2.85,Yes,Subclinical
+1473,22.79,446101,Peak,37.44,Slight Redness,Yes,3.3,No,N/A
+1474,28.03,528318,Late,39.1,Normal,No,3.67,Yes,Subclinical
+1475,23.86,193102,Mid,38.0,Normal,No,2.93,No,N/A
+1476,24.83,451233,Late,37.72,Lesions,No,3.0,No,N/A
+1477,24.77,245717,Peak,36.87,Slight Redness,No,3.75,No,N/A
+1478,24.43,970526,Mid,40.07,Normal,No,3.25,Yes,Subclinical
+1479,24.19,749237,Peak,39.09,Lesions,No,2.82,Yes,Subclinical
+1480,24.71,204527,Early,38.15,Lesions,No,3.77,No,N/A
+1481,26.22,935889,Early,38.02,Normal,No,3.28,Yes,Subclinical
+1482,25.21,68209,Late,38.34,Lesions,No,3.04,No,N/A
+1483,24.52,405652,Early,37.42,Swollen,No,3.67,No,N/A
+1484,24.87,144337,Peak,37.28,Slight Redness,No,3.55,No,N/A
+1485,27.65,353290,Mid,38.04,Hardness,No,2.88,No,N/A
+1486,27.88,870561,Late,38.96,Normal,No,3.02,Yes,Subclinical
+1487,25.64,624510,Late,38.53,Slight Redness,No,3.62,Yes,Clinical
+1488,26.32,714163,Mid,38.4,Lesions,No,3.39,Yes,Subclinical
+1489,28.47,943250,Peak,38.58,Slight Redness,Yes,3.68,Yes,Clinical
+1490,27.15,166841,Late,37.93,Lesions,Yes,3.74,No,N/A
+1491,25.13,155056,Mid,37.69,Hardness,No,3.07,No,N/A
+1492,22.75,188567,Late,38.0,Hardness,Yes,3.02,No,N/A
+1493,25.09,215993,Late,37.74,Swollen,Yes,3.26,No,N/A
+1494,26.4,760342,Peak,39.61,Hardness,No,3.63,Yes,Clinical
+1495,27.27,671529,Early,38.99,Hardness,No,3.66,Yes,Subclinical
+1496,26.47,964299,Mid,39.66,Swollen,No,3.48,Yes,Clinical
+1497,25.85,426470,Peak,37.26,Hardness,No,3.09,No,N/A
+1498,27.87,269151,Peak,38.1,Slight Redness,No,2.98,No,N/A
+1499,29.91,566855,Peak,39.17,Hardness,No,3.53,Yes,Subclinical
+1500,26.99,902352,Late,38.71,Lesions,No,3.08,Yes,Subclinical
+1501,25.1,980665,Peak,39.09,Lesions,Yes,3.69,Yes,Subclinical
+1502,26.07,583690,Early,38.71,Normal,No,3.67,Yes,Subclinical
+1503,27.53,453807,Peak,38.9,Slight Redness,No,3.11,No,N/A
+1504,23.96,976424,Late,39.09,Slight Redness,No,3.44,Yes,Clinical
+1505,24.41,201877,Early,37.44,Lesions,No,3.45,No,N/A
+1506,26.63,120086,Peak,38.47,Lesions,Yes,3.78,No,N/A
+1507,25.92,911132,Early,38.81,Hardness,No,3.7,Yes,Subclinical
+1508,25.93,983826,Early,38.64,Normal,No,3.01,Yes,Clinical
+1509,26.8,651576,Peak,39.16,Normal,Yes,3.39,Yes,Clinical
+1510,25.7,506503,Mid,39.38,Lesions,No,3.05,Yes,Clinical
+1511,25.68,522402,Late,39.62,Swollen,No,3.18,Yes,Subclinical
+1512,24.76,113152,Peak,38.86,Lesions,No,3.59,No,N/A
+1513,26.39,816719,Early,38.82,Normal,No,3.01,Yes,Subclinical
+1514,28.34,559856,Early,39.32,Slight Redness,No,3.2,Yes,Subclinical
+1515,24.31,348293,Late,38.34,Swollen,Yes,3.49,No,N/A
+1516,23.57,736077,Mid,38.71,Normal,No,2.88,Yes,Clinical
+1517,26.07,823084,Peak,38.56,Slight Redness,No,3.04,Yes,Subclinical
+1518,28.59,874129,Late,38.97,Swollen,No,3.42,Yes,Subclinical
+1519,26.62,410241,Early,37.66,Lesions,No,2.81,No,N/A
+1520,23.51,415687,Peak,37.74,Lesions,No,2.99,No,N/A
+1521,24.38,181407,Early,38.43,Swollen,Yes,3.28,No,N/A
+1522,24.62,672297,Peak,38.77,Swollen,No,3.43,Yes,Subclinical
+1523,25.21,64991,Early,37.75,Slight Redness,No,3.66,No,N/A
+1524,24.3,606516,Peak,38.77,Lesions,No,3.57,Yes,Subclinical
+1525,27.58,812547,Early,39.16,Slight Redness,Yes,3.57,Yes,Subclinical
+1526,24.07,666200,Early,39.61,Swollen,No,3.65,Yes,Clinical
+1527,26.46,402804,Peak,38.46,Slight Redness,No,3.63,No,N/A
+1528,25.63,195877,Mid,38.11,Swollen,No,3.6,No,N/A
+1529,25.38,515979,Mid,38.44,Hardness,No,3.26,Yes,Subclinical
+1530,27.87,740171,Peak,38.87,Lesions,Yes,3.23,Yes,Subclinical
+1531,26.97,481797,Peak,38.67,Lesions,No,3.51,No,N/A
+1532,27.38,535158,Early,38.93,Lesions,No,3.47,Yes,Subclinical
+1533,24.06,62819,Mid,37.81,Lesions,No,3.31,No,N/A
+1534,26.79,684457,Early,39.76,Swollen,No,3.16,Yes,Clinical
+1535,25.68,202365,Peak,37.46,Hardness,No,3.73,No,N/A
+1536,25.11,542653,Mid,37.72,Lesions,No,2.88,Yes,Subclinical
+1537,26.75,827549,Peak,38.52,Slight Redness,No,3.12,Yes,Clinical
+1538,25.17,762892,Peak,38.11,Hardness,Yes,2.85,Yes,Subclinical
+1539,28.79,563112,Late,38.43,Normal,No,3.63,Yes,Subclinical
+1540,25.48,104729,Peak,38.28,Slight Redness,No,3.01,No,N/A
+1541,26.01,381197,Early,37.89,Hardness,No,2.82,No,N/A
+1542,25.48,232162,Mid,38.13,Swollen,No,3.59,No,N/A
+1543,26.42,952684,Mid,38.28,Hardness,No,3.24,Yes,Clinical
+1544,24.84,431999,Early,37.82,Slight Redness,No,3.34,No,N/A
+1545,24.37,378252,Peak,38.26,Lesions,No,2.83,No,N/A
+1546,25.07,452559,Mid,37.8,Swollen,No,3.05,No,N/A
+1547,22.66,176677,Peak,37.68,Normal,No,2.92,No,N/A
+1548,24.41,266907,Early,37.32,Normal,No,2.91,No,N/A
+1549,25.94,291089,Peak,38.46,Hardness,No,3.29,No,N/A
+1550,24.07,99760,Late,38.29,Hardness,Yes,3.52,No,N/A
+1551,24.57,295020,Peak,38.36,Swollen,Yes,3.4,No,N/A
+1552,25.34,976320,Peak,39.6,Swollen,No,3.5,Yes,Subclinical
+1553,27.79,623554,Peak,38.61,Swollen,No,3.01,Yes,Subclinical
+1554,25.2,719223,Peak,39.11,Lesions,No,3.25,Yes,Subclinical
+1555,28.3,313505,Mid,38.64,Hardness,No,3.08,No,N/A
+1556,24.65,114701,Peak,37.6,Normal,Yes,3.36,No,N/A
+1557,30.1,533534,Mid,39.21,Swollen,No,3.67,Yes,Clinical
+1558,22.33,461511,Early,37.84,Normal,No,2.85,No,N/A
+1559,28.52,712564,Early,39.72,Hardness,Yes,3.72,Yes,Subclinical
+1560,27.59,414570,Early,38.27,Lesions,Yes,3.11,No,N/A
+1561,26.68,955674,Mid,38.96,Hardness,No,2.91,Yes,Clinical
+1562,25.27,83846,Early,38.86,Normal,No,2.84,No,N/A
+1563,26.1,156276,Early,38.13,Lesions,No,3.32,No,N/A
+1564,27.3,913488,Early,39.12,Slight Redness,No,2.88,Yes,Subclinical
+1565,24.43,59462,Early,37.62,Normal,No,3.19,No,N/A
+1566,22.77,232777,Mid,37.85,Swollen,No,3.17,No,N/A
+1567,21.81,64540,Peak,37.45,Hardness,Yes,3.08,No,N/A
+1568,24.01,742490,Peak,38.47,Lesions,No,3.15,Yes,Subclinical
+1569,25.34,526341,Early,38.68,Swollen,Yes,3.78,Yes,Subclinical
+1570,25.63,688321,Early,39.36,Swollen,No,3.26,Yes,Clinical
+1571,28.44,626272,Mid,38.97,Swollen,Yes,2.86,Yes,Subclinical
+1572,26.21,87013,Early,37.92,Swollen,No,3.46,No,N/A
+1573,26.16,604170,Early,38.62,Slight Redness,No,3.14,Yes,Subclinical
+1574,21.97,194089,Early,38.58,Swollen,No,3.37,No,N/A
+1575,27.44,908869,Peak,38.75,Swollen,Yes,3.19,Yes,Clinical
+1576,26.53,689019,Early,38.75,Normal,No,2.92,Yes,Clinical
+1577,26.57,938069,Late,38.92,Normal,No,3.13,Yes,Subclinical
+1578,23.63,511365,Mid,39.19,Slight Redness,No,3.44,Yes,Clinical
+1579,25.19,297334,Early,36.4,Hardness,No,3.59,No,N/A
+1580,27.71,902407,Peak,38.84,Hardness,No,3.26,Yes,Clinical
+1581,24.83,192715,Peak,37.54,Hardness,No,3.43,No,N/A
+1582,26.78,628095,Early,39.68,Swollen,No,2.99,Yes,Subclinical
+1583,25.88,85662,Mid,37.92,Normal,No,2.95,No,N/A
+1584,26.89,379674,Early,38.57,Hardness,Yes,3.58,No,N/A
+1585,23.37,880246,Early,39.21,Lesions,No,3.42,Yes,Clinical
+1586,26.74,221918,Mid,38.98,Normal,No,3.54,No,N/A
+1587,26.41,652844,Mid,39.0,Lesions,No,3.19,Yes,Subclinical
+1588,24.52,242844,Peak,38.78,Normal,Yes,3.46,No,N/A
+1589,24.02,542100,Early,38.25,Slight Redness,Yes,3.73,Yes,Clinical
+1590,25.64,553927,Mid,38.66,Normal,Yes,2.97,Yes,Subclinical
+1591,24.3,162183,Mid,37.01,Normal,Yes,2.97,No,N/A
+1592,25.67,210248,Mid,38.63,Hardness,No,3.2,No,N/A
+1593,22.75,191716,Late,37.93,Slight Redness,No,3.21,No,N/A
+1594,25.89,654697,Late,38.68,Slight Redness,No,3.74,Yes,Clinical
+1595,24.52,784733,Mid,39.6,Slight Redness,No,3.51,Yes,Clinical
+1596,25.5,689376,Mid,38.96,Hardness,Yes,3.03,Yes,Subclinical
+1597,25.04,975730,Peak,38.13,Normal,No,3.45,Yes,Subclinical
+1598,26.29,918088,Early,38.24,Slight Redness,Yes,3.01,Yes,Subclinical
+1599,26.3,236568,Late,37.95,Swollen,No,3.53,No,N/A
+1600,24.64,355115,Late,39.07,Lesions,No,2.94,No,N/A
+1601,25.25,551232,Peak,39.11,Swollen,No,3.48,Yes,Clinical
+1602,25.87,514264,Early,38.93,Lesions,No,3.04,Yes,Subclinical
+1603,24.13,228826,Peak,38.84,Hardness,No,3.61,No,N/A
+1604,26.91,644378,Peak,38.76,Hardness,Yes,3.36,Yes,Clinical
+1605,26.57,201566,Late,38.31,Lesions,No,3.59,No,N/A
+1606,24.97,191898,Early,37.93,Normal,Yes,2.99,No,N/A
+1607,26.22,236749,Mid,38.47,Hardness,No,3.7,No,N/A
+1608,23.75,196920,Mid,38.11,Hardness,No,3.04,No,N/A
+1609,24.58,694108,Late,38.55,Normal,No,3.51,Yes,Subclinical
+1610,28.12,102200,Early,39.01,Swollen,No,2.98,No,N/A
+1611,27.79,905077,Early,39.73,Swollen,Yes,3.79,Yes,Clinical
+1612,27.51,550576,Mid,39.35,Lesions,No,3.52,Yes,Subclinical
+1613,25.07,859353,Mid,39.07,Slight Redness,No,3.63,Yes,Clinical
+1614,24.9,81510,Late,38.21,Slight Redness,Yes,3.46,No,N/A
+1615,25.21,850104,Peak,38.3,Lesions,No,3.47,Yes,Clinical
+1616,24.88,484745,Peak,38.07,Lesions,Yes,3.28,No,N/A
+1617,27.18,992986,Mid,38.95,Swollen,Yes,3.1,Yes,Subclinical
+1618,26.36,983831,Early,39.62,Hardness,Yes,3.52,Yes,Subclinical
+1619,26.87,792446,Mid,38.33,Hardness,No,2.92,Yes,Clinical
+1620,23.83,924623,Mid,38.02,Lesions,Yes,2.93,Yes,Subclinical
+1621,24.54,460467,Peak,37.17,Slight Redness,Yes,3.52,No,N/A
+1622,23.96,887966,Early,38.81,Lesions,No,3.52,Yes,Subclinical
+1623,24.97,139501,Mid,38.52,Slight Redness,No,3.58,No,N/A
+1624,26.82,800613,Mid,38.3,Normal,No,3.4,Yes,Subclinical
+1625,22.1,394425,Early,37.93,Slight Redness,No,2.95,No,N/A
+1626,25.23,185059,Mid,37.95,Lesions,No,2.91,No,N/A
+1627,25.24,412983,Early,37.42,Lesions,Yes,3.31,No,N/A
+1628,27.81,223343,Peak,38.52,Normal,No,3.74,No,N/A
+1629,26.2,935677,Early,39.23,Slight Redness,No,3.68,Yes,Subclinical
+1630,25.79,805458,Late,39.36,Swollen,No,2.93,Yes,Clinical
+1631,25.15,751093,Late,39.35,Hardness,No,3.04,Yes,Clinical
+1632,23.82,949260,Peak,38.74,Swollen,No,3.32,Yes,Subclinical
+1633,26.4,903343,Mid,39.0,Normal,Yes,3.63,Yes,Clinical
+1634,26.32,788533,Mid,38.85,Normal,Yes,3.31,Yes,Subclinical
+1635,25.72,475060,Late,38.19,Lesions,No,3.19,No,N/A
+1636,24.85,394439,Peak,37.19,Slight Redness,No,3.74,No,N/A
+1637,27.36,599493,Peak,38.97,Slight Redness,Yes,2.84,Yes,Subclinical
+1638,23.12,82003,Early,37.19,Normal,Yes,3.57,No,N/A
+1639,25.43,664081,Peak,38.88,Hardness,No,2.96,Yes,Clinical
+1640,20.69,708541,Late,39.08,Slight Redness,No,3.67,Yes,Subclinical
+1641,26.23,76844,Early,38.26,Normal,No,3.4,No,N/A
+1642,26.68,956209,Early,39.14,Lesions,No,3.41,Yes,Subclinical
+1643,26.34,436771,Peak,38.85,Lesions,Yes,3.04,No,N/A
+1644,30.17,524790,Early,39.72,Hardness,No,3.25,Yes,Subclinical
+1645,25.08,455299,Peak,38.2,Swollen,No,3.71,No,N/A
+1646,24.32,983954,Mid,39.75,Hardness,No,3.78,Yes,Clinical
+1647,27.8,643154,Late,39.07,Lesions,No,3.12,Yes,Subclinical
+1648,27.01,723770,Early,38.42,Normal,No,3.55,Yes,Subclinical
+1649,23.96,726675,Mid,39.42,Slight Redness,Yes,2.82,Yes,Subclinical
+1650,23.9,166494,Peak,37.97,Slight Redness,No,3.73,No,N/A
+1651,26.09,519526,Mid,39.09,Normal,No,2.97,Yes,Subclinical
+1652,28.53,528758,Peak,38.9,Lesions,No,3.28,Yes,Subclinical
+1653,27.13,647028,Early,39.21,Lesions,No,3.71,Yes,Subclinical
+1654,22.75,908555,Mid,39.68,Hardness,No,3.61,Yes,Clinical
+1655,25.7,602956,Peak,39.34,Normal,Yes,3.25,Yes,Subclinical
+1656,27.37,148499,Peak,37.96,Hardness,Yes,2.91,No,N/A
+1657,26.05,649255,Early,38.51,Hardness,Yes,3.46,Yes,Subclinical
+1658,26.93,199976,Early,38.69,Hardness,No,3.43,No,N/A
+1659,26.66,521443,Late,40.21,Slight Redness,No,3.2,Yes,Subclinical
+1660,23.61,234043,Peak,37.96,Normal,No,3.13,No,N/A
+1661,27.19,791822,Early,39.22,Slight Redness,Yes,3.68,Yes,Subclinical
+1662,25.96,727797,Early,38.88,Slight Redness,No,3.61,Yes,Clinical
+1663,23.89,218214,Late,38.69,Swollen,No,3.03,No,N/A
+1664,25.67,941979,Late,38.95,Normal,No,3.21,Yes,Clinical
+1665,23.95,806347,Mid,39.09,Lesions,No,3.73,Yes,Subclinical
+1666,25.14,660519,Mid,38.41,Normal,Yes,3.45,Yes,Subclinical
+1667,23.62,256210,Late,37.74,Swollen,No,3.18,No,N/A
+1668,25.15,121226,Peak,38.02,Slight Redness,No,3.49,No,N/A
+1669,27.13,243854,Late,37.98,Hardness,No,3.63,No,N/A
+1670,25.28,789614,Late,39.26,Hardness,No,2.82,Yes,Subclinical
+1671,25.77,247102,Peak,38.19,Hardness,Yes,3.51,No,N/A
+1672,25.29,69019,Mid,38.16,Hardness,Yes,3.38,No,N/A
+1673,25.68,710176,Peak,39.04,Hardness,No,3.47,Yes,Subclinical
+1674,27.37,594192,Early,38.26,Normal,No,3.45,Yes,Subclinical
+1675,26.43,98703,Late,38.52,Slight Redness,No,3.65,No,N/A
+1676,26.61,844476,Early,39.36,Swollen,Yes,3.8,Yes,Subclinical
+1677,25.01,908331,Early,38.54,Hardness,No,2.96,Yes,Subclinical
+1678,27.62,232224,Early,38.4,Slight Redness,No,3.72,No,N/A
+1679,27.33,652779,Early,38.32,Lesions,No,2.86,Yes,Clinical
+1680,24.9,534430,Early,39.64,Swollen,No,3.57,Yes,Subclinical
+1681,23.14,92866,Peak,38.08,Slight Redness,No,3.62,No,N/A
+1682,26.61,675619,Mid,39.04,Hardness,No,3.25,Yes,Subclinical
+1683,29.31,635290,Mid,39.94,Swollen,No,3.74,Yes,Subclinical
+1684,25.59,337936,Peak,37.91,Lesions,No,3.6,No,N/A
+1685,28.3,783425,Peak,39.05,Slight Redness,Yes,2.96,Yes,Subclinical
+1686,25.66,171273,Early,37.32,Hardness,No,3.22,No,N/A
+1687,23.53,194207,Mid,37.98,Hardness,No,2.92,No,N/A
+1688,25.32,814892,Early,39.39,Normal,No,2.98,Yes,Subclinical
+1689,26.24,669164,Peak,38.77,Slight Redness,Yes,3.32,Yes,Subclinical
+1690,22.52,420585,Early,37.33,Lesions,No,3.54,No,N/A
+1691,25.76,721642,Early,38.57,Lesions,No,2.97,Yes,Subclinical
+1692,24.4,160964,Peak,39.01,Normal,No,2.95,No,N/A
+1693,25.38,863309,Late,39.69,Swollen,No,3.78,Yes,Subclinical
+1694,26.74,972227,Mid,39.66,Normal,Yes,2.81,Yes,Clinical
+1695,26.91,376489,Early,38.42,Swollen,No,3.44,No,N/A
+1696,26.14,473937,Peak,38.68,Slight Redness,Yes,3.37,No,N/A
+1697,27.69,635331,Mid,39.38,Swollen,No,3.34,Yes,Clinical
+1698,26.15,738098,Peak,39.08,Slight Redness,No,3.32,Yes,Clinical
+1699,28.43,537318,Early,38.82,Slight Redness,No,2.98,Yes,Subclinical
+1700,24.4,796467,Late,38.62,Slight Redness,Yes,3.19,Yes,Subclinical
+1701,26.55,68268,Late,38.48,Slight Redness,No,3.11,No,N/A
+1702,27.21,642088,Early,38.99,Slight Redness,No,3.44,Yes,Clinical
+1703,26.25,645861,Mid,39.08,Swollen,No,3.38,Yes,Clinical
+1704,27.86,950237,Mid,39.31,Swollen,Yes,2.93,Yes,Subclinical
+1705,27.22,686980,Late,39.69,Hardness,No,3.55,Yes,Subclinical
+1706,24.47,687271,Late,38.6,Slight Redness,No,3.41,Yes,Clinical
+1707,25.02,249687,Late,38.32,Slight Redness,No,2.89,No,N/A
+1708,27.41,393475,Late,37.9,Swollen,No,3.23,No,N/A
+1709,24.97,100347,Mid,38.39,Lesions,No,2.87,No,N/A
+1710,27.75,152492,Mid,37.46,Swollen,No,3.07,No,N/A
+1711,25.82,302937,Late,36.91,Lesions,No,3.59,No,N/A
+1712,23.22,376101,Early,38.22,Normal,No,3.76,No,N/A
+1713,29.24,804149,Peak,38.55,Swollen,No,3.6,Yes,Clinical
+1714,22.93,804591,Mid,38.55,Normal,No,3.4,Yes,Subclinical
+1715,24.19,399386,Early,38.73,Slight Redness,No,3.15,No,N/A
+1716,22.56,594030,Late,38.66,Swollen,Yes,3.48,Yes,Subclinical
+1717,25.76,730040,Early,38.65,Hardness,Yes,3.76,Yes,Clinical
+1718,24.09,239638,Late,37.89,Hardness,No,2.93,No,N/A
+1719,28.52,247370,Early,38.57,Swollen,No,2.86,No,N/A
+1720,25.71,698751,Peak,38.56,Swollen,No,3.71,Yes,Clinical
+1721,22.19,424429,Late,38.71,Hardness,Yes,3.48,No,N/A
+1722,25.25,844870,Mid,39.26,Slight Redness,Yes,3.1,Yes,Subclinical
+1723,22.66,398355,Peak,37.32,Hardness,Yes,3.35,No,N/A
+1724,25.7,980534,Mid,38.97,Slight Redness,No,3.34,Yes,Clinical
+1725,26.07,475887,Mid,37.99,Slight Redness,No,2.92,No,N/A
+1726,24.83,750222,Late,38.46,Normal,Yes,3.65,Yes,Clinical
+1727,27.19,984629,Late,38.9,Normal,Yes,3.21,Yes,Clinical
+1728,27.58,551610,Early,39.07,Slight Redness,Yes,3.8,Yes,Subclinical
+1729,26.37,184392,Peak,38.77,Swollen,No,3.27,No,N/A
+1730,24.17,293197,Mid,38.86,Lesions,No,2.98,No,N/A
+1731,25.41,201323,Mid,37.86,Hardness,Yes,2.83,No,N/A
+1732,28.13,822330,Mid,39.53,Lesions,No,3.52,Yes,Subclinical
+1733,27.64,244190,Peak,38.99,Swollen,Yes,3.48,No,N/A
+1734,27.04,652048,Early,39.52,Normal,No,3.59,Yes,Subclinical
+1735,24.99,992108,Early,39.04,Normal,No,3.4,Yes,Subclinical
+1736,28.22,661515,Peak,38.32,Swollen,No,3.57,Yes,Subclinical
+1737,26.88,741486,Mid,39.28,Swollen,No,2.96,Yes,Subclinical
+1738,27.27,791975,Early,39.46,Lesions,No,3.55,Yes,Subclinical
+1739,26.28,740500,Early,38.97,Slight Redness,No,3.52,Yes,Subclinical
+1740,23.19,496414,Peak,37.61,Lesions,No,3.15,No,N/A
+1741,27.15,367797,Peak,38.21,Swollen,No,2.87,No,N/A
+1742,23.36,990778,Early,39.06,Hardness,No,3.28,Yes,Clinical
+1743,26.49,670268,Early,38.98,Hardness,No,3.78,Yes,Clinical
+1744,28.99,858997,Late,39.37,Normal,No,2.8,Yes,Clinical
+1745,25.51,691060,Mid,38.46,Lesions,No,3.09,Yes,Subclinical
+1746,26.65,753916,Late,39.02,Normal,No,3.27,Yes,Clinical
+1747,28.13,736919,Mid,39.02,Lesions,No,3.07,Yes,Subclinical
+1748,26.24,994769,Late,39.12,Lesions,No,3.4,Yes,Subclinical
+1749,26.12,833772,Late,39.03,Hardness,No,3.47,Yes,Clinical
+1750,24.23,622178,Mid,38.77,Hardness,No,3.26,Yes,Subclinical
+1751,27.16,394319,Early,37.46,Hardness,No,3.38,No,N/A
+1752,25.44,618304,Early,38.57,Normal,No,3.56,Yes,Subclinical
+1753,26.53,455759,Mid,37.74,Normal,No,2.9,No,N/A
+1754,25.59,93953,Peak,38.06,Hardness,Yes,3.49,No,N/A
+1755,28.57,716015,Late,39.83,Hardness,No,3.44,Yes,Clinical
+1756,26.35,726140,Late,38.36,Swollen,No,2.82,Yes,Subclinical
+1757,24.59,949576,Late,38.61,Hardness,No,3.2,Yes,Subclinical
+1758,23.92,610842,Late,38.43,Lesions,Yes,2.94,Yes,Clinical
+1759,25.28,961873,Early,39.22,Lesions,No,3.61,Yes,Subclinical
+1760,24.08,60384,Mid,38.23,Lesions,No,2.84,No,N/A
+1761,23.4,374580,Late,38.87,Lesions,No,3.0,No,N/A
+1762,27.22,593416,Late,38.34,Hardness,No,3.45,Yes,Subclinical
+1763,23.67,111451,Early,38.59,Hardness,No,2.93,No,N/A
+1764,25.45,986232,Late,38.86,Slight Redness,Yes,3.21,Yes,Subclinical
+1765,25.66,719604,Early,38.92,Hardness,No,3.8,Yes,Clinical
+1766,25.26,574203,Early,39.72,Swollen,No,2.88,Yes,Subclinical
+1767,25.78,294008,Late,38.14,Swollen,No,3.6,No,N/A
+1768,26.81,726349,Late,39.05,Swollen,Yes,3.47,Yes,Subclinical
+1769,24.63,706091,Late,39.02,Slight Redness,No,2.96,Yes,Subclinical
+1770,24.13,289928,Late,37.59,Lesions,No,2.97,No,N/A
+1771,25.41,585222,Early,38.31,Hardness,Yes,3.01,Yes,Subclinical
+1772,26.33,215942,Mid,38.95,Normal,No,2.98,No,N/A
+1773,26.44,488691,Early,38.42,Lesions,Yes,3.2,No,N/A
+1774,25.6,226191,Peak,38.11,Normal,No,2.84,No,N/A
+1775,24.98,780620,Peak,38.43,Hardness,No,2.83,Yes,Subclinical
+1776,26.13,424681,Early,38.38,Lesions,No,3.15,No,N/A
+1777,25.75,77097,Late,38.72,Lesions,Yes,3.2,No,N/A
+1778,25.41,554091,Late,38.21,Normal,No,2.84,Yes,Subclinical
+1779,27.91,587199,Peak,38.66,Lesions,No,2.95,Yes,Clinical
+1780,26.63,110590,Mid,38.55,Hardness,Yes,3.6,No,N/A
+1781,26.96,888203,Mid,39.26,Slight Redness,No,2.98,Yes,Subclinical
+1782,27.38,443137,Early,37.77,Lesions,No,3.71,No,N/A
+1783,24.28,181752,Mid,37.82,Slight Redness,No,3.61,No,N/A
+1784,24.84,641064,Late,39.21,Slight Redness,No,2.99,Yes,Subclinical
+1785,27.38,998335,Late,38.9,Normal,Yes,3.2,Yes,Subclinical
+1786,25.84,430887,Late,38.92,Slight Redness,No,3.09,No,N/A
+1787,28.18,67730,Mid,37.68,Hardness,No,3.14,No,N/A
+1788,25.62,510791,Early,38.96,Swollen,No,2.96,Yes,Subclinical
+1789,27.26,919553,Peak,39.42,Slight Redness,No,3.03,Yes,Clinical
+1790,24.97,869131,Late,39.41,Lesions,Yes,3.07,Yes,Subclinical
+1791,27.75,262279,Mid,37.23,Slight Redness,Yes,3.68,No,N/A
+1792,24.99,163134,Early,39.28,Slight Redness,No,3.18,No,N/A
+1793,25.98,826965,Early,39.07,Swollen,No,3.78,Yes,Clinical
+1794,22.57,231212,Peak,37.9,Normal,No,3.59,No,N/A
+1795,25.18,581785,Early,39.71,Lesions,No,3.52,Yes,Clinical
+1796,27.09,798151,Late,40.21,Lesions,No,3.71,Yes,Subclinical
+1797,24.45,709560,Peak,39.27,Slight Redness,No,2.91,Yes,Clinical
+1798,24.76,163712,Late,38.04,Swollen,No,3.34,No,N/A
+1799,22.85,111430,Peak,38.25,Slight Redness,No,3.42,No,N/A
+1800,22.89,443255,Early,38.55,Normal,Yes,3.65,No,N/A
+1801,26.65,875843,Mid,38.91,Normal,No,2.95,Yes,Clinical
+1802,25.75,103697,Peak,37.99,Normal,Yes,3.59,No,N/A
+1803,25.76,229452,Peak,38.1,Hardness,Yes,3.76,No,N/A
+1804,27.01,580896,Late,40.27,Lesions,No,3.62,Yes,Subclinical
+1805,22.06,313399,Peak,37.67,Normal,Yes,3.21,No,N/A
+1806,28.12,404162,Peak,38.02,Normal,No,3.38,No,N/A
+1807,26.2,871278,Late,39.08,Hardness,No,3.72,Yes,Subclinical
+1808,25.35,70688,Peak,37.8,Hardness,No,3.37,No,N/A
+1809,24.71,692819,Peak,38.36,Swollen,No,3.62,Yes,Clinical
+1810,24.66,819124,Early,39.24,Hardness,Yes,3.43,Yes,Subclinical
+1811,25.77,892789,Late,39.27,Hardness,Yes,2.95,Yes,Subclinical
+1812,22.43,242105,Early,36.71,Hardness,No,2.97,No,N/A
+1813,23.07,915157,Late,38.83,Hardness,Yes,3.76,Yes,Subclinical
+1814,23.32,548383,Mid,38.74,Lesions,No,3.0,Yes,Subclinical
+1815,24.47,975441,Late,39.13,Lesions,Yes,3.42,Yes,Clinical
+1816,27.35,446443,Late,37.78,Swollen,No,3.02,No,N/A
+1817,24.01,617618,Late,38.98,Lesions,No,2.96,Yes,Clinical
+1818,26.86,887795,Mid,39.6,Swollen,No,3.38,Yes,Subclinical
+1819,24.14,197146,Peak,37.71,Hardness,No,2.83,No,N/A
+1820,23.49,341097,Early,38.14,Hardness,Yes,3.35,No,N/A
+1821,24.11,654069,Mid,39.7,Lesions,No,3.36,Yes,Clinical
+1822,26.75,624886,Early,39.49,Normal,No,3.62,Yes,Clinical
+1823,24.77,407414,Late,37.77,Lesions,No,3.18,No,N/A
+1824,25.88,273724,Late,38.27,Lesions,No,3.49,No,N/A
+1825,27.9,517116,Mid,39.22,Lesions,No,3.71,Yes,Clinical
+1826,28.68,435619,Late,37.45,Lesions,No,3.8,No,N/A
+1827,27.27,281021,Early,38.09,Swollen,Yes,3.0,No,N/A
+1828,26.56,557087,Mid,38.2,Normal,Yes,3.12,Yes,Subclinical
+1829,27.94,941847,Peak,38.52,Lesions,No,3.64,Yes,Clinical
+1830,26.71,741602,Mid,38.61,Lesions,Yes,2.9,Yes,Subclinical
+1831,28.47,332796,Late,37.38,Swollen,No,2.99,No,N/A
+1832,27.78,216891,Late,37.6,Hardness,No,3.17,No,N/A
+1833,27.99,865539,Early,39.33,Lesions,No,3.1,Yes,Clinical
+1834,26.08,660163,Early,40.07,Normal,No,3.15,Yes,Subclinical
+1835,27.34,568222,Mid,38.91,Hardness,Yes,3.54,Yes,Subclinical
+1836,26.07,589016,Early,39.66,Hardness,No,3.13,Yes,Subclinical
+1837,26.65,982291,Late,38.86,Swollen,Yes,3.72,Yes,Subclinical
+1838,26.21,339526,Peak,37.72,Slight Redness,Yes,2.93,No,N/A
+1839,29.59,831882,Late,38.44,Slight Redness,No,3.77,Yes,Clinical
+1840,24.9,898787,Mid,40.02,Slight Redness,Yes,3.32,Yes,Clinical
+1841,24.49,129093,Peak,37.03,Lesions,No,3.62,No,N/A
+1842,26.47,980419,Peak,38.61,Hardness,No,3.25,Yes,Subclinical
+1843,26.25,695118,Mid,39.64,Swollen,No,3.22,Yes,Subclinical
+1844,23.89,705496,Late,38.87,Hardness,No,3.63,Yes,Subclinical
+1845,27.37,677704,Peak,39.25,Normal,No,3.52,Yes,Subclinical
+1846,26.6,776807,Peak,39.13,Normal,No,3.03,Yes,Clinical
+1847,24.3,830341,Mid,38.34,Hardness,No,2.99,Yes,Subclinical
+1848,24.59,180335,Early,38.7,Hardness,No,3.38,No,N/A
+1849,25.86,902549,Early,38.57,Hardness,Yes,3.51,Yes,Subclinical
+1850,26.9,945534,Mid,39.29,Swollen,No,3.5,Yes,Subclinical
+1851,27.01,158628,Mid,37.95,Lesions,No,2.89,No,N/A
+1852,26.86,62789,Late,37.91,Lesions,No,3.19,No,N/A
+1853,27.51,949238,Late,39.55,Hardness,Yes,3.06,Yes,Clinical
+1854,24.84,104894,Peak,38.07,Hardness,No,3.23,No,N/A
+1855,22.35,328125,Peak,37.76,Swollen,No,2.89,No,N/A
+1856,27.36,582248,Late,39.71,Lesions,No,3.48,Yes,Subclinical
+1857,25.4,346226,Early,36.75,Normal,Yes,3.77,No,N/A
+1858,24.58,558507,Late,39.3,Normal,Yes,3.4,Yes,Subclinical
+1859,24.42,695595,Peak,39.72,Swollen,No,3.5,Yes,Subclinical
+1860,24.9,955109,Mid,39.38,Normal,No,2.82,Yes,Clinical
+1861,24.83,948700,Early,39.13,Slight Redness,No,3.79,Yes,Subclinical
+1862,26.06,734557,Peak,38.79,Normal,Yes,2.91,Yes,Subclinical
+1863,26.37,504898,Mid,39.69,Slight Redness,No,3.06,Yes,Subclinical
+1864,26.73,930517,Mid,38.93,Slight Redness,No,3.11,Yes,Clinical
+1865,24.32,383002,Early,37.68,Lesions,No,2.88,No,N/A
+1866,27.51,795471,Peak,39.16,Lesions,Yes,3.46,Yes,Subclinical
+1867,29.08,124032,Mid,38.01,Swollen,No,3.31,No,N/A
+1868,21.26,448271,Late,38.4,Swollen,No,3.05,No,N/A
+1869,24.91,263274,Early,37.74,Lesions,No,3.27,No,N/A
+1870,24.0,192896,Peak,37.8,Lesions,No,3.48,No,N/A
+1871,22.91,133345,Peak,38.43,Lesions,No,3.06,No,N/A
+1872,26.53,280212,Early,38.66,Swollen,No,3.47,No,N/A
+1873,23.42,546224,Early,39.83,Lesions,No,2.98,Yes,Subclinical
+1874,22.76,480936,Late,37.28,Lesions,Yes,3.07,No,N/A
+1875,27.09,597563,Mid,38.06,Hardness,No,3.29,Yes,Subclinical
+1876,26.89,494719,Mid,37.49,Lesions,No,3.31,No,N/A
+1877,24.78,570784,Peak,38.86,Hardness,No,2.99,Yes,Subclinical
+1878,26.44,494142,Early,38.53,Normal,No,3.56,No,N/A
+1879,24.64,334796,Mid,37.76,Hardness,Yes,3.68,No,N/A
+1880,24.53,879294,Early,39.97,Slight Redness,Yes,3.32,Yes,Clinical
+1881,26.32,311562,Late,37.6,Lesions,Yes,3.56,No,N/A
+1882,27.09,68449,Early,37.73,Slight Redness,No,3.33,No,N/A
+1883,24.82,350815,Peak,37.39,Swollen,Yes,3.35,No,N/A
+1884,26.21,432959,Early,38.31,Hardness,Yes,3.59,No,N/A
+1885,23.0,328238,Early,37.7,Lesions,Yes,3.1,No,N/A
+1886,24.43,389715,Late,37.64,Swollen,No,3.44,No,N/A
+1887,25.99,271735,Peak,38.21,Normal,Yes,3.21,No,N/A
+1888,27.93,610507,Early,39.82,Normal,No,3.45,Yes,Subclinical
+1889,26.45,212762,Mid,38.15,Hardness,No,2.93,No,N/A
+1890,26.08,988293,Mid,38.96,Slight Redness,Yes,3.65,Yes,Subclinical
+1891,29.12,697503,Early,39.51,Hardness,No,2.82,Yes,Clinical
+1892,24.0,54066,Peak,38.41,Lesions,Yes,3.21,No,N/A
+1893,25.74,965980,Mid,39.85,Lesions,No,3.44,Yes,Clinical
+1894,27.0,706464,Early,39.79,Swollen,No,3.66,Yes,Clinical
+1895,28.02,865856,Mid,39.11,Lesions,No,3.2,Yes,Clinical
+1896,28.71,153019,Early,37.9,Hardness,Yes,3.24,No,N/A
+1897,26.91,855900,Early,39.18,Swollen,Yes,2.9,Yes,Subclinical
+1898,22.86,294819,Peak,37.9,Slight Redness,No,3.52,No,N/A
+1899,23.52,701779,Mid,39.31,Lesions,Yes,3.19,Yes,Clinical
+1900,24.86,541058,Mid,39.2,Normal,No,3.1,Yes,Subclinical
+1901,25.03,398820,Peak,37.22,Normal,No,2.96,No,N/A
+1902,23.71,77955,Mid,37.84,Lesions,No,3.19,No,N/A
+1903,28.42,891979,Early,38.68,Hardness,No,3.48,Yes,Subclinical
+1904,28.74,710035,Peak,38.94,Lesions,No,3.09,Yes,Clinical
+1905,24.79,392683,Mid,38.62,Lesions,No,3.62,No,N/A
+1906,25.29,732683,Early,39.92,Normal,No,3.36,Yes,Clinical
+1907,26.8,938006,Late,39.99,Swollen,No,3.74,Yes,Clinical
+1908,25.26,284632,Peak,37.82,Hardness,No,2.96,No,N/A
+1909,23.92,775054,Early,39.16,Swollen,No,3.15,Yes,Subclinical
+1910,26.82,632263,Mid,39.49,Slight Redness,Yes,3.06,Yes,Clinical
+1911,25.25,381434,Peak,38.31,Swollen,Yes,3.1,No,N/A
+1912,25.22,875632,Late,38.81,Lesions,No,3.57,Yes,Clinical
+1913,22.7,354880,Late,37.99,Hardness,No,3.59,No,N/A
+1914,25.92,451809,Late,37.48,Slight Redness,No,3.78,No,N/A
+1915,26.05,566614,Early,38.87,Hardness,Yes,3.42,Yes,Subclinical
+1916,24.81,430348,Mid,38.27,Swollen,No,3.2,No,N/A
+1917,25.61,998059,Peak,39.56,Swollen,Yes,3.53,Yes,Clinical
+1918,23.07,133680,Late,37.95,Swollen,Yes,3.7,No,N/A
+1919,22.77,137041,Early,37.87,Slight Redness,No,3.78,No,N/A
+1920,24.19,137055,Early,38.0,Hardness,No,3.45,No,N/A
+1921,24.66,447713,Late,37.07,Swollen,No,3.38,No,N/A
+1922,27.12,729772,Peak,39.44,Lesions,No,3.07,Yes,Subclinical
+1923,27.74,757111,Late,38.7,Slight Redness,Yes,3.36,Yes,Clinical
+1924,24.06,116834,Late,38.31,Swollen,No,3.5,No,N/A
+1925,27.77,705441,Late,39.5,Hardness,No,3.48,Yes,Subclinical
+1926,25.42,419098,Early,37.92,Normal,No,3.07,No,N/A
+1927,27.9,751776,Mid,38.91,Normal,No,3.06,Yes,Subclinical
+1928,26.92,481616,Late,37.82,Lesions,No,3.13,No,N/A
+1929,26.25,765594,Peak,39.17,Slight Redness,No,3.64,Yes,Subclinical
+1930,26.84,894409,Early,38.72,Swollen,No,3.57,Yes,Clinical
+1931,24.75,841966,Early,39.41,Slight Redness,No,3.29,Yes,Subclinical
+1932,27.48,929456,Early,38.6,Slight Redness,No,3.11,Yes,Clinical
+1933,25.85,533786,Early,38.62,Normal,No,3.18,Yes,Subclinical
+1934,23.42,181767,Mid,37.57,Slight Redness,No,3.27,No,N/A
+1935,27.76,108773,Peak,37.7,Slight Redness,No,3.28,No,N/A
+1936,23.46,972326,Early,39.52,Lesions,No,3.54,Yes,Clinical
+1937,26.46,135500,Mid,37.7,Slight Redness,No,3.01,No,N/A
+1938,25.73,93372,Early,38.49,Hardness,No,2.87,No,N/A
+1939,26.17,481845,Early,37.45,Lesions,No,3.58,No,N/A
+1940,28.7,487311,Late,38.52,Hardness,No,2.88,No,N/A
+1941,25.88,184644,Early,38.63,Swollen,Yes,3.63,No,N/A
+1942,25.65,876941,Mid,39.1,Lesions,Yes,2.92,Yes,Subclinical
+1943,25.44,764349,Late,39.4,Hardness,No,3.14,Yes,Clinical
+1944,26.59,692807,Peak,39.16,Swollen,Yes,3.25,Yes,Subclinical
+1945,27.92,931873,Mid,39.24,Lesions,No,2.98,Yes,Clinical
+1946,24.81,262284,Mid,37.19,Normal,Yes,3.33,No,N/A
+1947,24.78,862061,Peak,39.0,Hardness,No,3.6,Yes,Clinical
+1948,24.39,209759,Late,38.25,Slight Redness,No,3.77,No,N/A
+1949,22.95,377339,Late,37.81,Lesions,Yes,3.65,No,N/A
+1950,22.15,201959,Early,38.67,Lesions,Yes,2.88,No,N/A
+1951,27.65,983594,Early,38.42,Swollen,No,3.32,Yes,Subclinical
+1952,22.7,428654,Peak,38.23,Slight Redness,No,3.48,No,N/A
+1953,25.3,729399,Peak,39.15,Normal,No,3.24,Yes,Clinical
+1954,22.83,499007,Late,38.2,Hardness,No,3.42,No,N/A
+1955,25.12,290834,Late,38.92,Hardness,No,3.53,No,N/A
+1956,23.7,452759,Peak,37.47,Lesions,Yes,3.15,No,N/A
+1957,24.51,493272,Mid,37.44,Swollen,Yes,2.82,No,N/A
+1958,25.43,625949,Mid,39.69,Slight Redness,Yes,2.98,Yes,Clinical
+1959,22.05,125349,Early,38.08,Lesions,No,3.21,No,N/A
+1960,26.87,662619,Late,39.92,Swollen,Yes,3.49,Yes,Clinical
+1961,27.75,881888,Mid,39.78,Swollen,No,2.83,Yes,Subclinical
+1962,24.57,338151,Late,37.69,Lesions,No,3.75,No,N/A
+1963,26.94,623133,Mid,39.21,Hardness,No,3.4,Yes,Subclinical
+1964,25.56,395423,Early,38.24,Normal,No,3.2,No,N/A
+1965,24.94,631880,Mid,38.93,Normal,No,3.76,Yes,Clinical
+1966,24.46,474558,Late,38.66,Swollen,Yes,3.09,No,N/A
+1967,28.43,259047,Late,38.21,Hardness,No,3.72,No,N/A
+1968,23.17,294786,Early,39.19,Slight Redness,No,3.39,No,N/A
+1969,23.93,635187,Late,38.89,Lesions,No,3.39,Yes,Clinical
+1970,26.39,712878,Early,38.76,Swollen,No,3.48,Yes,Clinical
+1971,23.55,107795,Late,36.96,Hardness,Yes,3.22,No,N/A
+1972,25.36,833789,Mid,39.3,Slight Redness,No,2.98,Yes,Clinical
+1973,27.77,581726,Mid,38.98,Hardness,Yes,3.12,Yes,Clinical
+1974,25.56,863269,Late,38.43,Slight Redness,Yes,3.57,Yes,Subclinical
+1975,29.39,897655,Late,38.91,Hardness,No,3.58,Yes,Subclinical
+1976,28.57,673273,Mid,39.58,Slight Redness,No,3.37,Yes,Clinical
+1977,24.96,436216,Early,37.59,Slight Redness,No,3.41,No,N/A
+1978,25.41,864384,Mid,38.95,Lesions,Yes,3.78,Yes,Clinical
+1979,24.71,313440,Peak,36.72,Hardness,Yes,3.19,No,N/A
+1980,28.27,779291,Early,38.92,Normal,No,3.26,Yes,Subclinical
+1981,27.74,727179,Early,38.98,Hardness,No,3.72,Yes,Clinical
+1982,27.23,353077,Late,38.37,Slight Redness,Yes,3.59,No,N/A
+1983,25.18,444493,Late,38.52,Hardness,Yes,3.41,No,N/A
+1984,26.8,797936,Peak,39.75,Swollen,No,3.77,Yes,Subclinical
+1985,24.95,985320,Mid,39.15,Slight Redness,No,3.14,Yes,Subclinical
+1986,26.06,416296,Mid,38.27,Swollen,No,2.93,No,N/A
+1987,23.29,877795,Late,38.79,Normal,No,3.11,Yes,Subclinical
+1988,25.55,453822,Peak,37.77,Lesions,No,3.3,No,N/A
+1989,23.8,929270,Early,38.54,Lesions,No,2.99,Yes,Clinical
+1990,26.32,649485,Peak,38.78,Slight Redness,No,3.45,Yes,Subclinical
+1991,24.22,669171,Mid,39.82,Swollen,No,3.14,Yes,Clinical
+1992,25.63,710632,Early,37.99,Hardness,No,2.84,Yes,Clinical
+1993,26.9,249790,Mid,38.09,Slight Redness,No,2.81,No,N/A
+1994,25.59,395173,Mid,37.34,Hardness,No,3.32,No,N/A
+1995,25.89,526449,Late,39.6,Swollen,No,3.13,Yes,Clinical
+1996,27.25,175019,Late,38.6,Hardness,No,3.75,No,N/A
+1997,25.63,353753,Peak,37.79,Swollen,No,3.78,No,N/A
+1998,23.02,265644,Peak,37.79,Normal,No,3.53,No,N/A
+1999,28.59,546419,Mid,39.97,Lesions,No,3.01,Yes,Subclinical
+2000,22.31,760293,Mid,39.12,Normal,No,3.53,Yes,Subclinical
+2001,27.22,218605,Late,37.77,Normal,No,3.11,No,N/A
+2002,26.99,941797,Late,39.06,Normal,No,3.34,Yes,Subclinical
+2003,26.82,922826,Peak,38.98,Lesions,No,3.2,Yes,Subclinical
+2004,24.75,803222,Peak,38.67,Normal,No,3.56,Yes,Subclinical
+2005,23.67,269506,Early,37.81,Normal,No,3.31,No,N/A
+2006,26.79,676385,Late,39.2,Normal,No,3.49,Yes,Clinical
+2007,23.35,305647,Early,37.41,Normal,No,3.32,No,N/A
+2008,27.06,688426,Early,38.72,Lesions,Yes,3.4,Yes,Subclinical
+2009,27.22,544327,Late,39.61,Normal,No,3.7,Yes,Clinical
+2010,27.57,621463,Mid,38.74,Swollen,No,3.23,Yes,Subclinical
+2011,25.06,83742,Late,38.09,Hardness,Yes,3.03,No,N/A
+2012,23.06,882938,Mid,39.5,Lesions,No,3.66,Yes,Subclinical
+2013,25.1,730312,Early,39.05,Hardness,No,2.98,Yes,Clinical
+2014,26.36,222977,Peak,38.09,Swollen,No,3.28,No,N/A
+2015,26.27,818204,Early,38.22,Swollen,Yes,3.06,Yes,Subclinical
+2016,24.4,78309,Early,37.12,Swollen,No,3.76,No,N/A
+2017,25.13,821200,Peak,38.85,Lesions,No,2.88,Yes,Clinical
+2018,27.59,231052,Late,39.47,Slight Redness,No,3.18,No,N/A
+2019,26.62,296394,Late,38.01,Lesions,No,3.51,No,N/A
+2020,22.45,251873,Late,38.08,Normal,Yes,3.43,No,N/A
+2021,22.92,617836,Mid,38.8,Lesions,Yes,3.04,Yes,Subclinical
+2022,26.17,588487,Mid,39.46,Normal,Yes,3.78,Yes,Subclinical
+2023,26.19,740153,Early,39.25,Slight Redness,Yes,2.84,Yes,Clinical
+2024,27.47,626017,Peak,39.01,Normal,No,3.19,Yes,Clinical
+2025,27.74,782359,Mid,39.1,Slight Redness,Yes,3.71,Yes,Clinical
+2026,25.61,280455,Mid,37.5,Normal,No,3.21,No,N/A
+2027,25.4,340764,Late,38.01,Slight Redness,No,3.45,No,N/A
+2028,24.88,403035,Mid,37.81,Swollen,No,2.96,No,N/A
+2029,24.87,361565,Early,39.37,Hardness,No,3.4,No,N/A
+2030,26.02,571429,Early,38.59,Lesions,No,3.06,Yes,Subclinical
+2031,27.94,962450,Early,40.3,Normal,Yes,3.0,Yes,Subclinical
+2032,26.16,201724,Early,37.36,Hardness,No,3.6,No,N/A
+2033,24.61,464093,Early,38.78,Hardness,Yes,3.4,No,N/A
+2034,26.11,422786,Late,38.66,Lesions,No,3.71,No,N/A
+2035,27.23,640847,Late,39.52,Hardness,No,3.28,Yes,Subclinical
+2036,23.27,377355,Early,38.57,Swollen,No,3.45,No,N/A
+2037,25.07,677734,Early,39.64,Hardness,Yes,3.6,Yes,Clinical
+2038,25.22,412768,Mid,39.07,Lesions,No,3.24,No,N/A
+2039,23.89,220465,Peak,37.78,Swollen,No,3.14,No,N/A
+2040,25.98,652569,Early,38.53,Slight Redness,No,3.42,Yes,Clinical
+2041,27.15,541873,Peak,38.49,Swollen,Yes,3.0,Yes,Subclinical
+2042,25.3,671799,Early,38.72,Slight Redness,No,3.59,Yes,Clinical
+2043,24.37,879332,Mid,39.11,Hardness,Yes,3.47,Yes,Clinical
+2044,25.92,391900,Mid,38.05,Lesions,Yes,3.32,No,N/A
+2045,25.72,755454,Peak,38.96,Slight Redness,No,3.74,Yes,Clinical
+2046,25.91,681689,Late,39.25,Swollen,No,3.63,Yes,Clinical
+2047,26.68,836025,Mid,38.67,Normal,No,3.23,Yes,Subclinical
+2048,25.52,692695,Mid,38.27,Slight Redness,No,3.75,Yes,Clinical
+2049,26.26,854899,Peak,39.01,Slight Redness,No,3.24,Yes,Subclinical
+2050,26.7,711180,Peak,38.48,Hardness,No,3.77,Yes,Subclinical
+2051,24.54,451674,Late,38.64,Swollen,No,3.31,No,N/A
+2052,24.7,408411,Late,38.77,Slight Redness,No,3.54,No,N/A
+2053,26.93,965559,Mid,37.63,Lesions,Yes,3.52,Yes,Subclinical
+2054,27.94,733183,Mid,39.04,Hardness,Yes,2.95,Yes,Subclinical
+2055,25.27,243576,Late,38.6,Swollen,No,3.18,No,N/A
+2056,22.47,243742,Peak,38.85,Hardness,No,3.24,No,N/A
+2057,27.31,611841,Peak,38.86,Lesions,Yes,3.11,Yes,Subclinical
+2058,27.51,219611,Early,38.5,Slight Redness,Yes,3.48,No,N/A
+2059,28.5,691708,Late,39.34,Lesions,No,2.98,Yes,Clinical
+2060,29.18,888238,Late,39.4,Hardness,No,3.73,Yes,Subclinical
+2061,22.93,755721,Peak,38.96,Normal,Yes,3.66,Yes,Subclinical
+2062,27.82,315070,Peak,37.56,Hardness,No,3.4,No,N/A
+2063,23.85,798409,Peak,38.73,Hardness,No,3.09,Yes,Clinical
+2064,25.43,346469,Late,38.16,Swollen,No,3.5,No,N/A
+2065,28.84,985383,Mid,38.68,Slight Redness,No,3.72,Yes,Subclinical
+2066,25.55,846497,Late,38.96,Hardness,Yes,3.46,Yes,Clinical
+2067,26.06,465145,Mid,37.8,Slight Redness,No,2.98,No,N/A
+2068,22.56,228078,Early,37.07,Lesions,No,3.32,No,N/A
+2069,26.3,132346,Late,37.87,Slight Redness,No,2.92,No,N/A
+2070,26.34,341241,Early,37.35,Lesions,No,3.75,No,N/A
+2071,24.74,644784,Early,39.52,Lesions,No,2.96,Yes,Clinical
+2072,27.68,657248,Late,39.1,Swollen,Yes,3.11,Yes,Clinical
+2073,23.75,116472,Early,37.92,Hardness,No,3.43,No,N/A
+2074,23.68,123215,Mid,38.61,Slight Redness,No,2.87,No,N/A
+2075,28.95,561016,Mid,39.35,Normal,No,3.76,Yes,Clinical
+2076,25.12,849074,Early,39.31,Swollen,No,3.26,Yes,Subclinical
+2077,25.49,654995,Early,39.18,Hardness,No,3.36,Yes,Clinical
+2078,26.1,989538,Peak,39.07,Hardness,No,2.86,Yes,Subclinical
+2079,27.42,325003,Peak,38.66,Hardness,No,3.74,No,N/A
+2080,25.75,160387,Early,38.68,Slight Redness,No,3.78,No,N/A
+2081,26.38,739802,Early,38.6,Swollen,No,3.28,Yes,Clinical
+2082,25.45,518675,Late,39.8,Swollen,No,3.22,Yes,Clinical
+2083,29.44,696839,Late,38.87,Hardness,Yes,3.79,Yes,Subclinical
+2084,26.34,362578,Early,39.38,Hardness,No,3.55,No,N/A
+2085,25.63,857117,Early,37.85,Swollen,No,3.75,Yes,Subclinical
+2086,27.54,919635,Early,39.07,Normal,Yes,3.04,Yes,Subclinical
+2087,25.52,482491,Peak,38.79,Normal,Yes,3.75,No,N/A
+2088,25.18,409214,Early,37.94,Normal,No,3.47,No,N/A
+2089,24.88,535725,Mid,38.51,Hardness,Yes,3.49,Yes,Clinical
+2090,26.85,576351,Early,39.31,Lesions,No,3.65,Yes,Subclinical
+2091,24.75,452103,Mid,37.84,Hardness,No,3.3,No,N/A
+2092,26.1,746346,Mid,39.06,Swollen,No,3.36,Yes,Clinical
+2093,25.5,984888,Early,38.49,Swollen,No,3.13,Yes,Clinical
+2094,25.99,738919,Late,39.23,Hardness,No,3.23,Yes,Subclinical
+2095,21.99,132647,Peak,38.24,Swollen,Yes,3.23,No,N/A
+2096,26.21,311416,Mid,37.58,Swollen,No,3.27,No,N/A
+2097,26.02,141862,Early,37.68,Swollen,No,3.57,No,N/A
+2098,26.97,837742,Late,39.34,Swollen,No,3.63,Yes,Subclinical
+2099,27.97,61359,Late,38.59,Normal,No,3.45,No,N/A
+2100,24.67,345195,Late,38.69,Hardness,Yes,3.46,No,N/A
+2101,25.16,95787,Peak,38.16,Hardness,No,3.51,No,N/A
+2102,25.15,355446,Peak,38.14,Slight Redness,Yes,2.94,No,N/A
+2103,24.5,347256,Late,37.76,Swollen,No,3.27,No,N/A
+2104,26.19,414906,Late,37.79,Swollen,Yes,3.34,No,N/A
+2105,23.71,833035,Early,39.32,Swollen,No,3.55,Yes,Clinical
+2106,24.81,172445,Mid,38.24,Lesions,No,3.79,No,N/A
+2107,28.86,925685,Peak,39.19,Slight Redness,No,3.13,Yes,Subclinical
+2108,25.44,902845,Early,38.86,Hardness,No,3.38,Yes,Subclinical
+2109,24.79,532132,Early,39.15,Slight Redness,No,3.64,Yes,Clinical
+2110,26.29,457104,Peak,37.57,Lesions,No,3.25,No,N/A
+2111,25.66,675533,Early,38.92,Normal,Yes,3.63,Yes,Subclinical
+2112,26.94,656797,Mid,38.69,Normal,No,3.49,Yes,Subclinical
+2113,25.27,292123,Peak,37.26,Slight Redness,No,3.51,No,N/A
+2114,26.68,875060,Peak,39.48,Swollen,No,2.88,Yes,Clinical
+2115,25.05,258682,Mid,37.6,Hardness,No,3.38,No,N/A
+2116,27.64,124722,Mid,37.12,Slight Redness,No,3.1,No,N/A
+2117,26.17,377677,Early,37.4,Normal,No,3.72,No,N/A
+2118,24.37,388212,Peak,38.08,Hardness,Yes,3.28,No,N/A
+2119,29.68,471098,Late,38.68,Slight Redness,No,3.33,No,N/A
+2120,25.72,421598,Late,37.73,Hardness,Yes,3.22,No,N/A
+2121,24.19,245688,Mid,38.51,Lesions,Yes,3.55,No,N/A
+2122,27.54,846058,Early,38.14,Swollen,No,3.3,Yes,Subclinical
+2123,27.19,545283,Mid,39.13,Slight Redness,No,3.52,Yes,Subclinical
+2124,23.22,238917,Peak,37.92,Hardness,No,3.22,No,N/A
+2125,24.48,461014,Late,38.26,Lesions,No,2.93,No,N/A
+2126,25.82,514274,Peak,39.09,Slight Redness,No,3.61,Yes,Subclinical
+2127,24.35,885838,Early,39.03,Hardness,No,3.03,Yes,Clinical
+2128,24.79,67433,Early,38.08,Swollen,No,3.15,No,N/A
+2129,27.58,911908,Early,39.36,Slight Redness,No,3.31,Yes,Subclinical
+2130,23.93,603989,Mid,38.97,Lesions,No,3.72,Yes,Clinical
+2131,25.88,540874,Early,38.44,Hardness,No,3.67,Yes,Clinical
+2132,24.89,347792,Mid,38.14,Hardness,No,2.93,No,N/A
+2133,24.99,88269,Peak,38.37,Lesions,No,2.89,No,N/A
+2134,24.66,802013,Mid,38.35,Hardness,No,3.14,Yes,Subclinical
+2135,23.61,153113,Peak,37.86,Slight Redness,Yes,3.54,No,N/A
+2136,24.21,298683,Peak,37.33,Hardness,No,3.47,No,N/A
+2137,27.14,292408,Early,37.63,Lesions,No,3.67,No,N/A
+2138,26.18,108978,Early,37.84,Swollen,No,3.16,No,N/A
+2139,24.11,289420,Early,38.35,Lesions,No,3.31,No,N/A
+2140,25.16,66223,Peak,37.35,Slight Redness,Yes,2.93,No,N/A
+2141,25.59,241557,Peak,39.04,Normal,No,2.85,No,N/A
+2142,26.09,470732,Early,37.56,Normal,No,3.3,No,N/A
+2143,22.43,175176,Late,38.33,Hardness,Yes,3.53,No,N/A
+2144,25.79,735376,Early,39.41,Hardness,Yes,3.39,Yes,Clinical
+2145,22.69,300138,Late,38.03,Hardness,Yes,3.47,No,N/A
+2146,25.34,471303,Mid,37.7,Normal,Yes,3.2,No,N/A
+2147,21.85,819707,Late,39.19,Lesions,Yes,3.63,Yes,Subclinical
+2148,27.15,971099,Late,38.39,Lesions,Yes,3.12,Yes,Clinical
+2149,27.24,413935,Mid,37.79,Slight Redness,No,2.87,No,N/A
+2150,26.11,899957,Early,39.11,Swollen,No,3.56,Yes,Subclinical
+2151,25.37,191528,Peak,38.07,Slight Redness,No,3.48,No,N/A
+2152,24.24,443635,Late,38.63,Slight Redness,No,3.5,No,N/A
+2153,26.17,202660,Early,38.06,Lesions,No,3.2,No,N/A
+2154,24.85,331538,Early,37.63,Normal,No,3.04,No,N/A
+2155,25.84,536470,Peak,38.56,Swollen,Yes,2.93,Yes,Subclinical
+2156,25.15,126348,Peak,37.89,Swollen,Yes,3.47,No,N/A
+2157,24.26,786732,Peak,38.89,Hardness,No,2.98,Yes,Subclinical
+2158,23.94,113263,Early,37.0,Swollen,No,3.75,No,N/A
+2159,24.38,184486,Mid,38.38,Hardness,No,3.03,No,N/A
+2160,26.11,756434,Early,39.23,Lesions,Yes,3.49,Yes,Clinical
+2161,27.43,710967,Peak,39.04,Swollen,No,3.02,Yes,Clinical
+2162,27.91,752188,Early,38.68,Swollen,No,3.18,Yes,Clinical
+2163,26.58,941109,Early,39.04,Slight Redness,No,3.57,Yes,Clinical
+2164,25.57,854722,Peak,38.84,Lesions,Yes,3.41,Yes,Subclinical
+2165,23.35,133695,Late,37.25,Normal,No,2.88,No,N/A
+2166,29.31,578685,Mid,39.26,Swollen,No,3.08,Yes,Subclinical
+2167,24.48,530070,Early,38.46,Hardness,Yes,3.42,Yes,Clinical
+2168,26.21,848228,Early,39.63,Normal,No,2.93,Yes,Clinical
+2169,28.58,692529,Mid,38.96,Swollen,No,3.4,Yes,Subclinical
+2170,26.47,407018,Peak,37.9,Swollen,Yes,3.0,No,N/A
+2171,23.31,418014,Peak,38.86,Lesions,No,3.49,No,N/A
+2172,26.15,490338,Early,38.18,Slight Redness,No,3.23,No,N/A
+2173,25.81,333291,Late,37.58,Slight Redness,No,2.85,No,N/A
+2174,28.31,978144,Early,37.99,Lesions,Yes,3.61,Yes,Clinical
+2175,24.18,255355,Peak,38.39,Slight Redness,No,3.3,No,N/A
+2176,29.05,569405,Late,38.71,Slight Redness,Yes,2.97,Yes,Clinical
+2177,26.72,671241,Peak,39.13,Slight Redness,Yes,3.17,Yes,Subclinical
+2178,28.22,557594,Peak,38.32,Swollen,No,2.85,Yes,Clinical
+2179,26.96,806501,Late,38.38,Slight Redness,No,2.84,Yes,Subclinical
+2180,28.96,878382,Early,38.95,Normal,Yes,2.93,Yes,Subclinical
+2181,25.12,391034,Late,37.56,Swollen,Yes,3.55,No,N/A
+2182,24.99,473057,Peak,37.14,Swollen,Yes,3.03,No,N/A
+2183,26.91,834679,Mid,39.08,Slight Redness,No,3.02,Yes,Subclinical
+2184,25.9,424064,Mid,37.69,Lesions,No,3.68,No,N/A
+2185,23.86,247860,Early,38.39,Slight Redness,No,3.11,No,N/A
+2186,24.71,630392,Peak,39.92,Slight Redness,No,2.82,Yes,Subclinical
+2187,25.03,204934,Mid,38.13,Normal,No,2.93,No,N/A
+2188,25.51,360775,Late,38.17,Lesions,No,3.39,No,N/A
+2189,25.32,130833,Late,36.84,Hardness,No,2.91,No,N/A
+2190,27.08,157567,Late,38.73,Hardness,Yes,3.71,No,N/A
+2191,24.74,799228,Early,38.67,Swollen,No,3.67,Yes,Subclinical
+2192,26.58,623904,Peak,40.23,Lesions,Yes,2.81,Yes,Subclinical
+2193,25.27,382698,Early,37.88,Lesions,No,3.22,No,N/A
+2194,25.22,174389,Mid,37.51,Lesions,Yes,3.46,No,N/A
+2195,23.13,531431,Early,38.76,Slight Redness,No,2.97,Yes,Subclinical
+2196,25.57,863565,Mid,38.91,Slight Redness,No,3.17,Yes,Clinical
+2197,24.57,106358,Peak,37.59,Slight Redness,No,3.66,No,N/A
+2198,26.08,732800,Mid,38.69,Hardness,No,3.56,Yes,Subclinical
+2199,26.05,387603,Late,38.03,Normal,No,3.24,No,N/A
+2200,25.59,886912,Mid,38.72,Slight Redness,No,3.16,Yes,Clinical
+2201,27.55,589748,Early,39.52,Normal,No,2.93,Yes,Clinical
+2202,27.32,777164,Early,38.98,Hardness,No,3.32,Yes,Clinical
+2203,24.72,845854,Late,38.81,Hardness,No,2.89,Yes,Clinical
+2204,25.17,212475,Mid,37.61,Normal,No,3.3,No,N/A
+2205,24.84,415670,Peak,37.84,Swollen,No,3.11,No,N/A
+2206,26.38,111006,Peak,38.36,Hardness,No,3.44,No,N/A
+2207,25.87,534959,Peak,39.56,Normal,No,3.0,Yes,Clinical
+2208,23.56,293069,Peak,37.99,Lesions,Yes,3.52,No,N/A
+2209,25.59,783321,Peak,39.3,Swollen,No,3.39,Yes,Subclinical
+2210,25.75,255669,Peak,38.12,Normal,Yes,3.6,No,N/A
+2211,21.31,627919,Peak,39.05,Normal,No,2.98,Yes,Clinical
+2212,30.22,656773,Peak,38.77,Slight Redness,No,3.64,Yes,Clinical
+2213,29.4,577877,Late,38.19,Slight Redness,No,3.39,Yes,Subclinical
+2214,28.7,753725,Mid,38.98,Normal,Yes,3.1,Yes,Clinical
+2215,26.08,773238,Late,38.68,Normal,No,3.4,Yes,Subclinical
+2216,26.3,627610,Peak,40.7,Lesions,No,3.38,Yes,Subclinical
+2217,27.9,603950,Peak,38.54,Swollen,No,3.2,Yes,Clinical
+2218,24.91,981945,Early,39.54,Swollen,No,3.69,Yes,Subclinical
+2219,28.37,875524,Mid,39.04,Normal,No,3.32,Yes,Subclinical
+2220,24.65,453862,Mid,38.8,Lesions,No,3.16,No,N/A
+2221,25.62,341905,Early,37.49,Lesions,Yes,2.81,No,N/A
+2222,25.46,115404,Peak,37.73,Normal,No,2.92,No,N/A
+2223,27.43,857671,Early,38.61,Normal,Yes,3.53,Yes,Clinical
+2224,27.53,551119,Peak,39.5,Hardness,Yes,3.24,Yes,Subclinical
+2225,25.43,193638,Late,37.65,Slight Redness,No,3.31,No,N/A
+2226,23.07,98535,Mid,37.35,Swollen,Yes,3.43,No,N/A
+2227,24.23,987410,Peak,38.31,Lesions,No,3.26,Yes,Subclinical
+2228,24.21,386172,Early,37.63,Slight Redness,Yes,2.98,No,N/A
+2229,24.85,754191,Mid,39.05,Lesions,No,3.77,Yes,Subclinical
+2230,27.21,876680,Mid,38.51,Swollen,Yes,3.74,Yes,Clinical
+2231,26.03,993515,Mid,39.64,Slight Redness,No,2.91,Yes,Clinical
+2232,26.2,292892,Late,39.37,Hardness,Yes,3.79,No,N/A
+2233,23.97,208804,Late,38.45,Normal,No,3.23,No,N/A
+2234,25.41,533380,Mid,39.58,Slight Redness,No,2.84,Yes,Clinical
+2235,28.88,604088,Early,39.22,Swollen,Yes,3.45,Yes,Clinical
+2236,23.9,683802,Early,38.98,Slight Redness,No,3.69,Yes,Subclinical
+2237,26.25,85436,Peak,38.92,Hardness,No,3.0,No,N/A
+2238,24.72,353849,Early,38.0,Lesions,No,2.83,No,N/A
+2239,24.78,364913,Mid,38.56,Swollen,No,3.58,No,N/A
+2240,25.64,906593,Early,38.95,Normal,No,3.02,Yes,Clinical
+2241,23.67,865992,Mid,39.82,Slight Redness,No,2.85,Yes,Subclinical
+2242,27.04,513187,Late,38.64,Swollen,No,3.23,Yes,Subclinical
+2243,28.31,512818,Peak,39.48,Lesions,Yes,3.27,Yes,Clinical
+2244,24.54,648154,Mid,38.94,Swollen,No,3.0,Yes,Subclinical
+2245,25.44,50883,Early,37.64,Swollen,Yes,3.65,No,N/A
+2246,24.25,990244,Peak,39.22,Swollen,Yes,3.5,Yes,Subclinical
+2247,26.62,925856,Mid,40.12,Swollen,No,3.01,Yes,Subclinical
+2248,25.77,972407,Late,38.32,Swollen,Yes,3.04,Yes,Subclinical
+2249,25.34,705597,Peak,39.36,Normal,No,3.55,Yes,Subclinical
+2250,27.3,689640,Early,39.31,Lesions,No,3.72,Yes,Subclinical
+2251,28.56,547011,Late,38.65,Swollen,No,3.36,Yes,Subclinical
+2252,26.72,893388,Peak,39.49,Hardness,No,3.63,Yes,Subclinical
+2253,25.57,322249,Early,37.2,Normal,No,3.27,No,N/A
+2254,25.18,361316,Late,38.02,Lesions,No,3.35,No,N/A
+2255,26.89,445398,Early,38.01,Hardness,Yes,3.39,No,N/A
+2256,28.81,516025,Late,39.98,Hardness,Yes,3.74,Yes,Clinical
+2257,25.01,426877,Early,37.87,Hardness,Yes,3.39,No,N/A
+2258,25.55,677613,Mid,37.89,Swollen,No,3.54,Yes,Subclinical
+2259,26.87,185087,Mid,37.82,Swollen,No,3.48,No,N/A
+2260,24.78,166319,Peak,38.43,Normal,No,3.43,No,N/A
+2261,26.28,241216,Late,37.67,Swollen,No,3.78,No,N/A
+2262,28.28,519357,Mid,38.46,Swollen,No,3.79,Yes,Clinical
+2263,27.27,507163,Mid,39.32,Normal,No,3.06,Yes,Subclinical
+2264,26.97,395818,Late,37.65,Lesions,No,3.8,No,N/A
+2265,26.92,718426,Mid,38.73,Slight Redness,Yes,3.25,Yes,Subclinical
+2266,26.13,605755,Mid,39.25,Normal,No,3.4,Yes,Clinical
+2267,24.75,450281,Peak,38.07,Slight Redness,No,2.89,No,N/A
+2268,27.22,790091,Mid,39.87,Lesions,No,2.83,Yes,Subclinical
+2269,26.82,541062,Early,39.21,Normal,Yes,3.27,Yes,Subclinical
+2270,25.21,261174,Early,37.49,Hardness,No,3.22,No,N/A
+2271,27.1,749731,Early,39.62,Swollen,Yes,3.01,Yes,Subclinical
+2272,24.26,178608,Peak,37.89,Swollen,No,3.41,No,N/A
+2273,23.95,284193,Peak,37.98,Lesions,No,3.62,No,N/A
+2274,23.61,231657,Late,38.38,Hardness,No,2.81,No,N/A
+2275,27.63,210749,Peak,38.61,Lesions,Yes,2.81,No,N/A
+2276,27.03,874386,Peak,38.92,Swollen,No,2.92,Yes,Clinical
+2277,28.57,715301,Early,38.72,Swollen,Yes,3.52,Yes,Clinical
+2278,23.04,260068,Late,38.33,Hardness,Yes,3.06,No,N/A
+2279,24.95,967370,Peak,38.56,Normal,No,3.11,Yes,Subclinical
+2280,24.78,483781,Peak,37.85,Lesions,No,2.89,No,N/A
+2281,24.44,107815,Late,38.62,Normal,Yes,3.45,No,N/A
+2282,23.47,453649,Mid,37.87,Normal,Yes,3.4,No,N/A
+2283,24.8,610071,Mid,39.74,Lesions,Yes,2.82,Yes,Subclinical
+2284,26.94,373765,Early,38.1,Normal,Yes,3.51,No,N/A
+2285,27.77,455139,Late,37.98,Normal,No,3.75,No,N/A
+2286,25.45,306243,Peak,38.14,Swollen,Yes,3.62,No,N/A
+2287,24.89,152999,Mid,39.04,Slight Redness,No,3.64,No,N/A
+2288,25.54,348438,Late,38.78,Hardness,No,3.41,No,N/A
+2289,24.91,164789,Mid,38.13,Lesions,No,2.99,No,N/A
+2290,26.89,671396,Late,38.85,Normal,No,2.95,Yes,Subclinical
+2291,25.46,343892,Peak,38.0,Normal,Yes,3.48,No,N/A
+2292,25.78,571555,Mid,38.69,Swollen,No,2.96,Yes,Clinical
+2293,27.03,422556,Late,38.28,Swollen,No,3.65,No,N/A
+2294,24.61,246690,Mid,37.97,Lesions,No,3.48,No,N/A
+2295,27.29,605975,Late,38.88,Hardness,No,3.73,Yes,Subclinical
+2296,20.61,97832,Peak,37.95,Normal,Yes,3.53,No,N/A
+2297,24.5,482671,Peak,38.23,Slight Redness,No,2.99,No,N/A
+2298,21.9,80890,Late,38.04,Swollen,No,3.4,No,N/A
+2299,25.32,279704,Peak,38.45,Normal,No,3.41,No,N/A
+2300,26.3,702455,Late,39.06,Lesions,Yes,3.35,Yes,Clinical
+2301,23.73,429407,Early,37.97,Swollen,No,2.89,No,N/A
+2302,23.81,941150,Mid,38.91,Hardness,No,3.06,Yes,Clinical
+2303,25.39,725361,Mid,38.83,Normal,Yes,3.67,Yes,Clinical
+2304,25.16,325115,Early,37.06,Normal,No,3.65,No,N/A
+2305,25.45,779805,Late,39.49,Lesions,No,3.72,Yes,Clinical
+2306,27.21,791780,Late,39.23,Normal,No,3.14,Yes,Subclinical
+2307,24.96,562245,Mid,39.94,Hardness,No,3.69,Yes,Subclinical
+2308,25.42,401671,Mid,38.74,Lesions,No,3.65,No,N/A
+2309,26.13,234486,Late,38.42,Slight Redness,No,2.9,No,N/A
+2310,25.99,694675,Early,39.4,Lesions,No,3.53,Yes,Clinical
+2311,27.19,630361,Peak,39.05,Normal,No,3.53,Yes,Subclinical
+2312,24.96,551295,Late,39.18,Hardness,Yes,3.4,Yes,Subclinical
+2313,26.78,902746,Early,39.19,Normal,Yes,3.79,Yes,Clinical
+2314,25.09,119086,Early,37.91,Slight Redness,Yes,3.08,No,N/A
+2315,26.57,456568,Peak,38.82,Slight Redness,No,3.77,No,N/A
+2316,24.91,564146,Late,38.9,Hardness,Yes,3.65,Yes,Subclinical
+2317,24.52,371582,Peak,38.18,Hardness,No,3.37,No,N/A
+2318,23.57,498230,Peak,38.25,Lesions,No,2.97,No,N/A
+2319,25.4,567894,Peak,39.38,Swollen,No,2.99,Yes,Subclinical
+2320,26.03,194350,Mid,38.42,Hardness,No,3.42,No,N/A
+2321,24.22,425204,Late,38.5,Slight Redness,No,3.1,No,N/A
+2322,24.45,278068,Peak,37.86,Swollen,Yes,3.04,No,N/A
+2323,26.91,853420,Early,38.74,Swollen,No,3.11,Yes,Subclinical
+2324,28.3,549498,Peak,38.61,Slight Redness,No,2.98,Yes,Clinical
+2325,24.93,706588,Peak,38.84,Slight Redness,Yes,3.46,Yes,Clinical
+2326,25.28,506650,Late,38.89,Swollen,No,3.56,Yes,Subclinical
+2327,24.94,308418,Early,38.09,Hardness,Yes,3.0,No,N/A
+2328,23.3,149284,Late,37.9,Lesions,No,2.95,No,N/A
+2329,25.01,110598,Peak,38.28,Normal,No,2.96,No,N/A
+2330,26.21,573989,Late,39.09,Normal,No,3.74,Yes,Clinical
+2331,27.62,212604,Early,38.09,Hardness,Yes,3.08,No,N/A
+2332,26.42,272747,Peak,38.5,Hardness,Yes,3.5,No,N/A
+2333,23.25,951908,Mid,38.81,Hardness,No,3.27,Yes,Subclinical
+2334,27.47,491026,Mid,37.7,Lesions,Yes,3.44,No,N/A
+2335,24.11,281763,Peak,37.33,Swollen,No,2.99,No,N/A
+2336,24.87,914529,Mid,38.85,Normal,No,3.34,Yes,Subclinical
+2337,25.2,366118,Peak,37.41,Normal,No,2.82,No,N/A
+2338,27.33,643140,Mid,38.83,Swollen,No,3.7,Yes,Subclinical
+2339,26.84,706511,Early,39.77,Hardness,No,2.85,Yes,Subclinical
+2340,24.24,428622,Peak,37.93,Normal,Yes,3.41,No,N/A
+2341,26.32,636138,Late,38.41,Lesions,No,3.22,Yes,Clinical
+2342,26.27,610766,Early,38.78,Swollen,Yes,3.56,Yes,Subclinical
+2343,28.66,954749,Early,40.13,Slight Redness,No,3.71,Yes,Clinical
+2344,26.03,99962,Early,38.19,Lesions,Yes,3.74,No,N/A
+2345,24.39,482061,Early,38.09,Slight Redness,No,2.96,No,N/A
+2346,24.56,924456,Late,39.09,Normal,No,2.86,Yes,Subclinical
+2347,26.51,967333,Early,39.49,Hardness,No,3.44,Yes,Clinical
+2348,28.63,678521,Peak,38.95,Lesions,No,3.43,Yes,Subclinical
+2349,28.88,748223,Mid,39.5,Hardness,No,3.33,Yes,Subclinical
+2350,25.38,102250,Peak,38.21,Hardness,Yes,3.39,No,N/A
+2351,29.61,830417,Late,39.01,Slight Redness,Yes,3.61,Yes,Clinical
+2352,27.91,614715,Peak,38.83,Slight Redness,No,3.58,Yes,Clinical
+2353,23.75,951429,Mid,39.22,Hardness,No,3.33,Yes,Subclinical
+2354,27.76,712963,Mid,39.84,Normal,Yes,3.3,Yes,Subclinical
+2355,29.81,525963,Late,39.42,Slight Redness,No,3.35,Yes,Subclinical
+2356,25.97,381193,Mid,39.63,Lesions,No,3.69,No,N/A
+2357,27.23,689109,Mid,39.16,Lesions,No,3.37,Yes,Subclinical
+2358,24.07,636175,Mid,39.08,Hardness,No,3.13,Yes,Subclinical
+2359,26.54,229091,Late,38.88,Hardness,No,3.47,No,N/A
+2360,26.88,881673,Late,38.52,Swollen,No,3.72,Yes,Clinical
+2361,22.82,329345,Peak,36.91,Lesions,Yes,3.78,No,N/A
+2362,27.17,548671,Late,39.45,Normal,No,3.16,Yes,Clinical
+2363,28.45,703275,Late,39.45,Slight Redness,No,3.56,Yes,Subclinical
+2364,20.98,185028,Early,37.68,Slight Redness,No,2.85,No,N/A
+2365,26.45,541767,Early,39.47,Normal,No,3.22,Yes,Clinical
+2366,24.54,554138,Mid,38.5,Hardness,Yes,3.53,Yes,Subclinical
+2367,22.7,485625,Peak,37.56,Hardness,No,3.62,No,N/A
+2368,23.1,371674,Early,38.19,Normal,No,2.9,No,N/A
+2369,27.15,814284,Mid,38.59,Hardness,No,2.85,Yes,Subclinical
+2370,24.71,251143,Peak,38.5,Swollen,No,3.39,No,N/A
+2371,24.73,320784,Late,37.74,Slight Redness,No,3.12,No,N/A
+2372,27.06,317347,Early,36.85,Lesions,Yes,3.44,No,N/A
+2373,26.18,567808,Late,39.51,Lesions,No,3.49,Yes,Subclinical
+2374,24.56,220574,Peak,38.42,Swollen,Yes,3.12,No,N/A
+2375,23.64,239160,Late,38.35,Swollen,Yes,3.44,No,N/A
+2376,26.3,748159,Peak,38.34,Normal,No,3.34,Yes,Clinical
+2377,26.57,362516,Late,38.09,Hardness,No,2.8,No,N/A
+2378,26.24,465831,Mid,38.24,Slight Redness,Yes,3.01,No,N/A
+2379,27.55,787683,Peak,38.05,Slight Redness,No,3.76,Yes,Subclinical
+2380,27.68,632229,Mid,38.87,Hardness,No,3.29,Yes,Subclinical
+2381,26.47,896771,Peak,38.59,Hardness,No,3.52,Yes,Subclinical
+2382,25.48,435272,Early,37.96,Swollen,No,3.04,No,N/A
+2383,24.19,229891,Late,38.15,Hardness,No,3.43,No,N/A
+2384,25.36,556319,Mid,38.93,Lesions,No,2.86,Yes,Subclinical
+2385,25.31,366793,Peak,38.38,Slight Redness,No,2.9,No,N/A
+2386,28.45,60447,Peak,38.2,Lesions,No,3.15,No,N/A
+2387,26.91,927519,Early,39.03,Normal,Yes,3.6,Yes,Subclinical
+2388,24.13,869169,Mid,39.16,Lesions,No,3.59,Yes,Clinical
+2389,25.61,817773,Late,39.33,Swollen,No,3.69,Yes,Clinical
+2390,25.33,133614,Mid,37.7,Swollen,No,3.6,No,N/A
+2391,25.88,867428,Peak,39.69,Swollen,No,3.51,Yes,Clinical
+2392,24.97,856609,Mid,39.49,Slight Redness,No,3.55,Yes,Clinical
+2393,27.08,658000,Early,40.72,Normal,No,3.28,Yes,Subclinical
+2394,25.19,889597,Peak,38.79,Lesions,Yes,2.99,Yes,Subclinical
+2395,27.95,947093,Early,39.11,Normal,No,2.85,Yes,Clinical
+2396,25.64,160352,Mid,38.77,Normal,No,3.5,No,N/A
+2397,25.48,262727,Peak,36.8,Slight Redness,No,3.37,No,N/A
+2398,25.99,97273,Mid,37.89,Lesions,No,2.85,No,N/A
+2399,25.29,561730,Late,39.15,Slight Redness,No,2.84,Yes,Subclinical
+2400,24.44,322458,Peak,38.51,Swollen,No,2.84,No,N/A
+2401,24.85,798805,Mid,38.83,Normal,Yes,3.19,Yes,Subclinical
+2402,26.18,347581,Early,38.02,Slight Redness,Yes,3.21,No,N/A
+2403,26.25,679056,Mid,38.16,Lesions,No,2.8,Yes,Clinical
+2404,28.08,406866,Early,37.93,Normal,No,3.72,No,N/A
+2405,24.39,298503,Peak,37.91,Lesions,No,3.63,No,N/A
+2406,25.27,949162,Early,39.63,Slight Redness,No,2.97,Yes,Subclinical
+2407,23.28,288186,Early,38.66,Lesions,No,3.01,No,N/A
+2408,24.08,357616,Early,38.65,Normal,No,3.13,No,N/A
+2409,25.98,660843,Peak,38.63,Hardness,No,3.26,Yes,Clinical
+2410,25.58,663210,Late,39.07,Normal,Yes,3.0,Yes,Subclinical
+2411,27.32,735883,Mid,39.28,Normal,Yes,2.95,Yes,Subclinical
+2412,24.19,419749,Early,37.75,Hardness,No,3.51,No,N/A
+2413,24.79,946099,Peak,38.63,Hardness,Yes,3.48,Yes,Subclinical
+2414,28.12,844823,Peak,39.1,Lesions,Yes,3.22,Yes,Clinical
+2415,28.1,870793,Peak,38.79,Lesions,Yes,3.12,Yes,Subclinical
+2416,25.65,725502,Late,38.88,Slight Redness,No,3.6,Yes,Subclinical
+2417,24.57,806683,Peak,39.75,Lesions,Yes,3.77,Yes,Subclinical
+2418,26.17,710557,Mid,39.43,Normal,No,3.64,Yes,Clinical
+2419,22.89,315661,Late,38.43,Lesions,No,3.6,No,N/A
+2420,26.5,658911,Early,39.25,Hardness,No,3.06,Yes,Subclinical
+2421,24.63,218307,Early,38.1,Swollen,No,3.04,No,N/A
+2422,26.7,368423,Peak,38.15,Hardness,No,3.43,No,N/A
+2423,25.48,537214,Early,39.74,Normal,Yes,3.03,Yes,Subclinical
+2424,25.01,247203,Peak,37.92,Swollen,Yes,3.8,No,N/A
+2425,24.11,122757,Late,37.13,Hardness,No,3.69,No,N/A
+2426,24.21,404353,Late,38.17,Lesions,No,3.4,No,N/A
+2427,26.5,976208,Early,38.25,Slight Redness,Yes,3.32,Yes,Clinical
+2428,27.72,516425,Mid,39.65,Lesions,Yes,3.22,Yes,Clinical
+2429,26.44,815147,Mid,39.17,Hardness,No,3.69,Yes,Clinical
+2430,25.84,139129,Peak,38.0,Swollen,No,3.08,No,N/A
+2431,25.28,916382,Late,39.0,Swollen,Yes,3.73,Yes,Subclinical
+2432,26.44,677157,Mid,39.21,Lesions,Yes,3.14,Yes,Subclinical
+2433,27.28,890327,Early,38.8,Swollen,No,3.43,Yes,Clinical
+2434,26.31,633388,Mid,39.22,Swollen,Yes,3.04,Yes,Subclinical
+2435,24.32,160136,Late,38.22,Slight Redness,Yes,3.55,No,N/A
+2436,24.43,763635,Late,39.8,Hardness,Yes,2.99,Yes,Clinical
+2437,24.56,59491,Mid,37.6,Normal,No,3.5,No,N/A
+2438,27.31,730581,Late,38.94,Normal,No,3.44,Yes,Subclinical
+2439,23.65,485330,Late,39.15,Swollen,No,3.42,No,N/A
+2440,27.37,167941,Early,38.21,Slight Redness,Yes,3.02,No,N/A
+2441,26.2,533626,Late,39.32,Hardness,No,3.47,Yes,Subclinical
+2442,26.34,811062,Early,38.57,Slight Redness,Yes,3.39,Yes,Subclinical
+2443,23.03,205219,Late,37.92,Lesions,Yes,3.17,No,N/A
+2444,25.95,576357,Mid,38.62,Hardness,No,3.78,Yes,Subclinical
+2445,26.99,940989,Mid,39.28,Hardness,No,3.32,Yes,Clinical
+2446,25.34,991432,Mid,39.71,Slight Redness,Yes,3.14,Yes,Subclinical
+2447,27.24,484494,Peak,38.22,Hardness,No,3.79,No,N/A
+2448,25.18,351841,Late,37.58,Normal,No,3.17,No,N/A
+2449,25.62,456649,Early,37.87,Lesions,No,3.33,No,N/A
+2450,25.28,996128,Early,38.3,Swollen,No,3.33,Yes,Subclinical
+2451,25.0,546497,Early,39.11,Normal,No,3.22,Yes,Subclinical
+2452,26.71,658465,Mid,39.29,Normal,No,3.23,Yes,Subclinical
+2453,26.01,480502,Late,36.82,Lesions,No,3.73,No,N/A
+2454,25.44,442892,Peak,37.95,Lesions,Yes,3.29,No,N/A
+2455,27.29,249302,Peak,37.7,Swollen,Yes,2.98,No,N/A
+2456,24.37,311153,Early,37.58,Swollen,No,2.81,No,N/A
+2457,26.75,647852,Late,39.61,Normal,Yes,2.82,Yes,Subclinical
+2458,25.55,923185,Mid,38.27,Slight Redness,Yes,2.88,Yes,Clinical
+2459,23.4,715532,Late,40.16,Lesions,No,3.41,Yes,Clinical
+2460,26.42,730202,Early,38.55,Normal,No,2.89,Yes,Clinical
+2461,25.75,952971,Late,39.14,Lesions,No,3.17,Yes,Subclinical
+2462,27.28,560134,Peak,38.94,Normal,No,3.37,Yes,Subclinical
+2463,25.27,592298,Late,39.34,Normal,No,3.73,Yes,Subclinical
+2464,25.63,131344,Late,37.49,Swollen,Yes,3.11,No,N/A
+2465,30.34,632674,Peak,38.71,Swollen,Yes,3.49,Yes,Subclinical
+2466,24.62,180847,Mid,37.9,Swollen,No,2.81,No,N/A
+2467,27.03,439102,Peak,38.18,Lesions,No,2.86,No,N/A
+2468,28.38,252845,Mid,38.44,Lesions,No,3.19,No,N/A
+2469,24.24,748977,Mid,39.21,Hardness,No,3.71,Yes,Subclinical
+2470,25.89,402295,Early,38.18,Slight Redness,No,2.85,No,N/A
+2471,24.14,51451,Early,37.46,Slight Redness,No,3.62,No,N/A
+2472,24.23,847363,Early,38.19,Swollen,Yes,3.54,Yes,Subclinical
+2473,25.76,350525,Late,38.37,Normal,No,2.95,No,N/A
+2474,26.3,507537,Early,39.27,Lesions,No,2.86,Yes,Clinical
+2475,23.98,459776,Late,38.96,Slight Redness,No,3.78,No,N/A
+2476,23.89,188158,Peak,37.94,Lesions,Yes,3.45,No,N/A
+2477,25.29,972564,Late,39.64,Normal,Yes,3.04,Yes,Clinical
+2478,25.82,933690,Early,38.78,Swollen,No,3.25,Yes,Subclinical
+2479,24.89,400670,Early,38.22,Lesions,No,3.01,No,N/A
+2480,25.52,471399,Late,37.6,Normal,No,3.15,No,N/A
+2481,22.74,301904,Mid,37.49,Hardness,No,3.54,No,N/A
+2482,25.57,491467,Late,38.34,Slight Redness,No,3.09,No,N/A
+2483,25.79,914985,Mid,38.62,Swollen,No,3.73,Yes,Clinical
+2484,27.32,860438,Mid,39.03,Swollen,No,3.01,Yes,Subclinical
+2485,24.95,638719,Peak,38.35,Hardness,No,3.2,Yes,Clinical
+2486,21.93,272537,Early,38.05,Lesions,Yes,3.31,No,N/A
+2487,27.55,647830,Early,39.63,Swollen,No,3.74,Yes,Clinical
+2488,23.73,384980,Early,37.43,Swollen,Yes,2.85,No,N/A
+2489,25.01,440847,Peak,37.93,Lesions,No,3.34,No,N/A
+2490,27.58,623821,Peak,38.37,Swollen,No,3.59,Yes,Subclinical
+2491,26.58,621275,Late,39.16,Swollen,Yes,3.47,Yes,Subclinical
+2492,28.14,976855,Mid,38.93,Normal,No,3.48,Yes,Subclinical
+2493,25.24,471623,Peak,38.29,Lesions,Yes,3.51,No,N/A
+2494,28.31,335931,Mid,37.68,Swollen,No,3.21,No,N/A
+2495,23.33,152386,Mid,38.24,Normal,Yes,2.82,No,N/A
+2496,28.21,289083,Early,38.68,Slight Redness,Yes,3.37,No,N/A
+2497,26.18,768152,Early,39.42,Slight Redness,Yes,3.03,Yes,Subclinical
+2498,23.44,609462,Late,39.17,Normal,No,3.25,Yes,Clinical
+2499,25.76,817683,Peak,38.81,Hardness,Yes,3.24,Yes,Clinical
+2500,26.88,543053,Mid,39.79,Swollen,Yes,3.78,Yes,Clinical
