@@ -5,8 +5,8 @@ Here's a professional **README.md** template for your Mastitis Detection project
 🔍 Project Overview
 A machine learning system to detect clinical/subclinical mastitis in dairy cows with **96% top accuracy**, reducing milk yield losses by 35% through early intervention.
 
-📂 Dataset
-
+📂 ##Dataset
+![Dataset](https://github.com/Harsha-096/Mastitis-Detection-in-Dairy-Cows-Using-Machine-Learning/blob/df9a713a7bbdae21e68671c3c8bf205aaebe9365/Dataset/updated_mastitis_dataset.csv).
 # Sample data structure
 {
     "SCC (cells/mL)": [125000, 253000, ...],  # Somatic Cell Count
@@ -56,9 +56,8 @@ print(classification_report(y_test, y_pred))
 - Subclinical Mastitis: **F1=0.94**
 - Clinical Mastitis: **F1=0.89**
 
-**Confusion Matrix:**
-![Confusion Matrix](confusion_matrix.png)
-
+## Confusion Matrix:-
+![Confusion Matrix](https://github.com/Harsha-096/Mastitis-Detection-in-Dairy-Cows-Using-Machine-Learning/blob/df9a713a7bbdae21e68671c3c8bf205aaebe9365/Images/Correlation%20Matrix.png).
 ## 🌍 Impact Metrics
 ```text
 - 40% reduction in antibiotic usage
